@@ -62,9 +62,9 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **The itch:** By every modern metric — XP/hour, repeatability, voice acting, waypoints — these quests are terribly designed. They're also the thing everyone tells you the game does best. Both observations are correct.
 - **Possible hook:** A modern MMO quest: follow the dotted line, kill ten boars, ding. An OSRS quest: a talking chicken, a puzzle that stumps you for an hour, and at the end — permission to use fairy rings for the rest of your life.
 - **Strongest counterargument:** Quest Helper. The majority now follows a dotted line anyway, so the sacred design is already dead and nostalgia is doing the rest. (Response has to take plugin adoption seriously.)
-- **Evidence needed:** concrete unlock examples (fairy rings, Piety, dragon scimitar, RFD chest tiers), quest count, Quest Helper adoption signals, a fair pre-QH vs post-QH framing.
-- **Status:** angle
-- **Facts confidence:** med
+- **Evidence needed:** core facts verified 2026-07-03 → `research/osrs-facts.md` (181 quests/339 QP, RFD 175 QP + 10 parts, fairy ring chain). Gap: Quest Helper install count.
+- **Status:** outlined → `scripts/drafts/quests-waste-your-time.md`
+- **Facts confidence:** high (QH adoption number pending)
 
 ---
 
