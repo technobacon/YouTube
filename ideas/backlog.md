@@ -40,16 +40,14 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Status:** spark
 - **Facts confidence:** low
 
-## 28 inventory slots is the most important number in the game
-- **Thesis:** The fixed, tiny inventory is a constraint that silently designs half the game's decisions — trips, gear swaps, what content is even possible.
-- **The itch:** Every other MMO expanded bag space. OSRS never did. That refusal shapes everything.
-- **Possible hook:** Count the decisions a single inventory forces in one Zulrah kill.
-- **Strongest counterargument:** It's just legacy jank preserved by nostalgia, not deliberate design.
-- **Evidence needed:** rune pouch / looting bag / quiver history — each is the game admitting the constraint bites; date those additions.
-- **Status:** spark — *note: channel may already have an "inventory system deep dive"; check `channel-context.md` before developing.*
-- **Facts confidence:** low
-
 ---
 
-## FROM THE STYLE EXAMPLES
-*The Moons of Peril / inventory titles in the brief read like existing or planned channel videos. Confirm which are already published (log them in `channel-context.md`) so we build on them instead of repeating.*
+## ALREADY COVERED — don't repeat, but mine for callbacks
+*See `channel-context.md` for the full catalogue. These topics are spent as standalone videos; reference them, don't redo them.*
+- Inventory / 28 slots / storage — video #1.
+- Moons of Peril: defence calculation (#5), flat armor (#6), supply/dungeon ecosystem (#7). The whole Moons well is dug. A *fourth* Moons angle would likely underperform (see the trilogy decay note in `channel-context.md`).
+- OSRS vs. WoW Classic design (#2).
+- Hueycoatl boss critique (#4).
+
+## STRATEGY NOTE FOR NEW IDEAS
+Your best video was a self-contained, contrarian claim about a thing players thought they understood ("DPS is a lie"). Bias new sparks toward that shape: pick a widely-held OSRS belief and overturn it, and make it standalone — not "part N of a series."
