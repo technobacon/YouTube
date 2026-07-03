@@ -19,6 +19,18 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 
 ---
 
+## IN DEVELOPMENT
+
+## Sisyphus Would Have Loved Old School RuneScape
+- **Thesis:** OSRS is the most honest game ever made about what games are — it quantifies its own futility up front, and that honesty (which design orthodoxy says should kill a game) is why it works.
+- **The itch:** "Grindy" is a pejorative everywhere except the one game that grew by refusing to hide the grind.
+- **Possible hook:** The Greeks designed the worst punishment imaginable; cut to a man on hour 400 of rooftop laps, content.
+- **Strongest counterargument:** The Skinner box reading — it's not revolt, it's variable-ratio reinforcement, and Camus is cope.
+- **Evidence needed:** XP curve numbers, 2013 launch vote, Leagues spikes, ironman behavior, Camus exact quotes. See draft.
+- **Status:** outlined → `scripts/drafts/sisyphus-osrs.md`
+- **Facts confidence:** med (structure solid, all stats flagged for verification)
+- **Note:** The voice-pivot test video. Full exurb1a dial.
+
 ## SEED IDEAS
 *Unvalidated sparks — theses to pressure-test, not settled takes. Verify all mechanics before drafting.*
 
