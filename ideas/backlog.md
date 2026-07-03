@@ -63,7 +63,7 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Possible hook:** A modern MMO quest: follow the dotted line, kill ten boars, ding. An OSRS quest: a talking chicken, a puzzle that stumps you for an hour, and at the end — permission to use fairy rings for the rest of your life.
 - **Strongest counterargument:** Quest Helper. The majority now follows a dotted line anyway, so the sacred design is already dead and nostalgia is doing the rest. (Response has to take plugin adoption seriously.)
 - **Evidence needed:** core facts verified 2026-07-03 → `research/osrs-facts.md` (181 quests/339 QP, RFD 175 QP + 10 parts, fairy ring chain). Gap: Quest Helper install count.
-- **Status:** outlined → `scripts/drafts/quests-waste-your-time.md`
+- **Status:** drafted → `scripts/drafts/quests-waste-your-time.md`
 - **Facts confidence:** high (QH adoption number pending)
 
 ---
