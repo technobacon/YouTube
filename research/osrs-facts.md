@@ -36,6 +36,15 @@ Prefer primary sources: the OSRS Wiki (oldschool.runescape.wiki), official Jagex
 | Run energy rework | Betas 27 Jun + 24 Oct 2024; regen formula (Agility/10)+15, was (Agility/6)+8 | [OSRS Wiki update pages](https://oldschool.runescape.wiki/w/Update:Run_Energy_Changes) | 2026-07-03 | Buffed low-level regen; drain slower at all weights. Part of Project Rebalance era. |
 | WHO gaming disorder | Added to ICD-11, adopted 2019 | WHO ICD-11 | 2026-07-03 | From knowledge, high confidence (in effect Jan 2022). Verify wording before quoting WHO directly. |
 | Sisyphus myth details | Chained Thanatos (first offense); escaped underworld via unperformed funeral rites (second); boulder punishment | Standard Greek mythology (Homer, Odyssey XI) | 2026-07-03 | Prometheus's tormentor is an eagle, not a vulture. |
+| Game tick length | 0.6s nominal (100/min); crowded worlds run ~0.616–0.618s (e.g., World 302), emptier ~0.606–0.611s | [OSRS Wiki: Game tick](https://oldschool.runescape.wiki/w/Game_tick) | 2026-07-03 | Actions registered mid-tick begin at next tick start (0–0.6s input latency). Run = 2 tiles/tick, walk = 1. |
+| Client-side UI cycle | 20ms (right-click menus, tab switching) | OSRS Wiki: Game tick | 2026-07-03 | Separate from the 600ms server tick — faster loops exist in the codebase. |
+| Prayer drain mechanics | Each active prayer adds drain effect to a counter per tick; a point is lost when counter exceeds resistance = 2 × prayer bonus + 60 | [OSRS Wiki: Prayer](https://oldschool.runescape.wiki/w/Prayer_flicking) | 2026-07-03 | Key: no drain is charged on the tick a prayer is activated — this is what makes flicking possible. 1-tick flicking = off/on every tick, zero drain. |
+| Skilling timer manipulation | Herb + swamp tar sets a 3-tick delay; knife + teak/mahogany logs 3t; celastrus bark 4t | [OSRS Wiki: Tick manipulation](https://oldschool.runescape.wiki/w/Tick_manipulation) | 2026-07-03 | The "skilling timer" counts down to the next action roll. |
+| 3-tick fishing | Barbarian/fly fishing rolls every 5 ticks by default; 3-ticking ≈ 67% faster XP | OSRS Wiki: Tick manipulation | 2026-07-03 | |
+| 3t4g granite | Adamant pick mines granite every 4 ticks; 3-ticked = fastest Mining XP in game | OSRS Wiki: Tick manipulation | 2026-07-03 | |
+| 1-tick karambwans | Over 1,000,000 Cooking XP/hr | OSRS Wiki: Tick manipulation | 2026-07-03 | |
+| 2-tick woodcutting | Default WC delay 4 ticks; auto-retaliate vs NPC with rapid weapon → rolls every 2 ticks | OSRS Wiki: Tick manipulation | 2026-07-03 | |
+| **GAP:** origin of the 600ms value | No dev statement found explaining the original choice or confirming it can't change | searched 2026-07-03 | 2026-07-03 | Script must frame origin as general early-2000s server architecture, no invented dev quotes. |
 
 ---
 

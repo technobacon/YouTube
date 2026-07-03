@@ -26,9 +26,9 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **The itch:** Players curse the tick daily (pathing, dead clicks, stalls) while every skill-expression mechanic they're proud of — flicking, tick manipulation, tick-eating — only exists because of it.
 - **Possible hook:** A world-record speedrun clip where the player's hands are doing something invisible to the camera, then: every trick in that clip is an exploit of lag.
 - **Strongest counterargument:** The jank is a real tax — new players bounce off dead clicks and pathing misery; Jagex itself has flirted with engine work. Romanticizing limitation is survivorship bias.
-- **Evidence needed:** tick = 0.6s (canonical); precise prayer-flick drain mechanics; 3t4g / 2t woodcutting examples; any Jagex statements on engine/tick changes.
-- **Status:** angle
-- **Facts confidence:** med
+- **Evidence needed:** verified 2026-07-03 → `research/osrs-facts.md`. Gap: no dev statement on the 600ms origin (script hedges accordingly).
+- **Status:** drafted → `scripts/drafts/held-together-by-lag.md`
+- **Facts confidence:** high
 
 ## 2. The Attention Tax (OSRS's Invisible Stat)
 - **Thesis:** Every reward rate in OSRS is priced in attention — the game has a second, unlisted balancing axis running from full-afk to tick-perfect, and once you see it, a dozen "weird" design choices snap into focus.
