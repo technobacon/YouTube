@@ -53,9 +53,9 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **The itch:** Your bank tab has held its value for a decade. That's bizarre. Ask a WoW player what their gold buys now versus 2019.
 - **Possible hook:** Open on the GE ticker like a Bloomberg terminal. Somewhere in Cambridge, someone's job is deciding how much money should exist in a medieval fantasy world.
 - **Strongest counterargument:** The real economy is the shadow one — bots and RWT set prices more than Jagex does, and the "central bank" is a night watchman who can't stop the counterfeiters.
-- **Evidence needed:** GE tax rate/date/cap and where the gold goes, buy limit mechanics, bond introduction date, biggest gold printers (raw gp drops vs alchables), any Jagex economy blog posts.
-- **Status:** angle
-- **Facts confidence:** low-med (economy details need careful sourcing)
+- **Evidence needed:** verified 2026-07-03 → `research/osrs-facts.md` (tax 1%→2% history, 5.6T item sink w/ 399 tbows, GE polled in at 76.3%, bonds Mar 2015, Venezuela/NPR). Re-check time-sensitive numbers at recording.
+- **Status:** outlined → `scripts/drafts/jagex-central-bank.md`
+- **Facts confidence:** high (snapshot numbers dated May 2025, refresh before publish)
 
 ## 5. OSRS Quests Are Designed to Waste Your Time
 - **Thesis:** OSRS quests are the best in the genre because they're allowed to inconvenience you — they gate rather than reward, refuse to mark objectives, and the permission slips they hand out (mechanics, areas, gear) are what keep the world's geography meaningful.
