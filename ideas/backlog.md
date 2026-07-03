@@ -36,7 +36,7 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Possible hook:** Two players get the same 99. One watched Netflix for 300 hours; one performed 300 hours of tick-perfect inputs in half the time. The game priced both fairly, and no other game can.
 - **Strongest counterargument:** "Attention pricing" at the top end is an RSI machine, and RuneLite (markers, metronomes, helpers) has quietly deflated the price of attention without rewards adjusting — the axis is eroding.
 - **Evidence needed:** anchors verified 2026-07-03 → `research/osrs-facts.md` (AFK timer to 25 min, Jagex "low intensity skillers" blog language, tick-manip rates, prayer drain). Rung XP pairs to verify at script stage.
-- **Status:** outlined (v2 — ascent structure, honest-attention-market angle) → `scripts/drafts/attention-tax.md`
+- **Status:** drafted (v2 — ascent structure, honest-attention-market angle) → `scripts/drafts/attention-tax.md`
 - **Facts confidence:** high
 
 ## 3. OSRS Is a Democracy, and It Shouldn't Work

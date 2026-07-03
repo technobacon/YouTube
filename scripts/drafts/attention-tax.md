@@ -1,120 +1,154 @@
-# The Attention Tax — Outline (v2: new structure, new angle)
+# The Attention Tax — Full Script (v2 structure)
 
-**Structure experiment:** No Hook → Thesis → Body → Turn spine this time. This one is an **ascent** — a guided climb up the attention price ladder from 0% to 100%, where the thesis is never announced; it *accumulates* and snaps into focus around the fourth stop. Then a lookout at the top (the cultural turn), and a descent for the landing. The video's shape mirrors its subject. Chapter stops double as SEO-keyworded timestamps.
-
-**Angle shift:** The old pitch was inward-facing ("OSRS has a second balancing axis"). The new angle points outward: **the modern internet is an attention economy that harvests you and pays nothing; OSRS is the only attention economy that posts prices and pays wages.** The mechanics analysis is the same evidence, aimed at a bigger claim — one with crossover reach beyond OSRS viewers.
-
-**Thesis (never stated as a thesis in-video; emerges at Stop 4):** Every reward rate in OSRS is a posted price for your attention, tiered from full-AFK to tick-perfect — which makes a 2007 goblin game the only honest attention market you use.
-
-**Target runtime:** ~15 min (~2,250 words)
-**Voice dial:** High. The ascent format is inherently exurb1a (the "tour of magnitudes" move). Deadpan at the bottom rungs, escalating intensity with the climb, tonal downshift at the wrist section, tender on the descent.
-**Facts:** Anchors verified 2026-07-03 → `research/osrs-facts.md` (AFK timer to 25 min, Jagex's own "low intensity skillers" blog language, 3t fishing +67%, 1t karambwan 1M+/hr, prayer drain mechanics). Rung-specific XP rates flagged for script-stage verification.
+**Thesis (emerges at Stop 4, never announced):** Every reward rate in OSRS is a posted price for your attention — which makes a 2007 goblin game the only honest attention market you use.
+**Structure:** The ascent — 0% to 100% up the attention dial, thesis snaps into focus mid-climb, lookout turn at the top, descent to land.
+**Runtime:** ~15 minutes (~2,250 words)
+**Voice dial:** High exurb1a. Deadpan floor, escalating climb, silent ceiling, angry lookout, tender descent.
+**Facts:** All named stats verified → `research/osrs-facts.md`. Remaining flags at bottom.
 
 ---
 
-## COLD OPEN — The meter nobody sees
+Right now, somewhere, a man is fighting eight monsters at once, and he isn't there. His character is inside a dream — literally; the content is called the Nightmare Zone — absorbing blows, returning them, gaining levels. The man himself is in the kitchen. The game knows he's gone. The game was built knowing he'd go.
 
-Not a scenario — an instrument. Introduce an imaginary gauge: every game you've ever played has secretly had one, measuring how much of your mind it's currently occupying. Most games peg it at 100 and call that immersion; that's the whole pitch of the medium. Then: there is exactly one major game that treats that meter as a *dial you're allowed to set yourself* — and it prices everything you do by where you set it. Today we climb the dial.
+[VISUAL: NMZ footage, character flailing heroically; slow reveal of an empty chair. The gauge appears bottom-corner, needle at 0 — it stays on screen for the whole video]
 
-Candidate opening line: *"Right now, somewhere, a man is fighting eight monsters in his sleep, and the game knows he's asleep, and the game is fine with it. We should start there."* (NMZ — the sleep is hyperbole-adjacent; phrase as "functionally asleep.")
+I want to hand you an instrument today. Imagine every game you've ever played had a hidden meter on the side of the screen, measuring exactly one thing: how much of your mind the game is occupying, right now, this second. Most games try to pin that meter at a hundred. That's the pitch of the entire medium — immersion, flow, presence; the words all mean *needle at maximum.*
 
-`[VISUAL: an analog gauge overlay, needle at zero, labeled only "%" — recurring UI element for the whole video, ticking up at each stop]`
+There's one major game that treats the needle as a dial. You set it. Three percent, forty, a hundred — your choice, every session. And the strange part, the part this video is about: the game reads your setting, and prices everything accordingly. Old School RuneScape has been running this system for twenty-five years, mostly without telling anyone. Today we climb the dial, from the bottom.
 
-## STOP 1 — 0–5%: The game that lets you leave the room
+[VISUAL: title card; the gauge ticks up as it fades]
 
-The rung where OSRS is most alien. NMZ: a combat minigame constructed so you can fight while functionally absent. Wintertodt between rounds. And the institutional evidence: the AFK logout timer — five minutes base, and Jagex recently shipped a *customisable* version up to twenty-five minutes. They wanted thirty; the engine said no. Play that straight: a design team, in a polled update, engineered additional permission for you to ignore their game. Name one other studio that builds tools for your absence. The reward rates down here are modest and everyone knows it, and nobody resents it, and hold that lack of resentment — it's load— *(banned word; phrase as "it's carrying more weight than it looks")* — it matters later.
+---
 
-`[VISUAL: needle at 3%; a player idling at NMZ with a second monitor visibly playing a film]`
+**Start at the floor. Zero to five percent.**
 
-## STOP 2 — ~15%: The podcast tier
+The Nightmare Zone: a combat minigame where your character fights dream-versions of old quest bosses, arranged — by design — so that the optimal strategy involves clicking approximately once in a very long while. People run entire film nights here. Their characters punch through the credits.
 
-AFK woodcutting, fishing, the click-per-minute methods. This is where most of the game's total hours actually live `[qualitative — no stat exists; phrase as claim]`. The XP is slow, the game is honest about it, and Jagex designs for this tier *on purpose* — quote their own Project Rebalance language: "attractive alternatives for **low intensity** skillers." Their words. The community asked for "low intensity, social training methods" in consultation and Jagex built Forestry in response. The attention dial is in the patch notes, in dev vocabulary, hiding in plain sight.
+And if you suspect this tier is an accident, something players found in the cracks, look at the logout timer. The game logs you out after five minutes idle. Always has. Recently, Jagex shipped a setting to extend it — five-minute increments, up to twenty-five minutes. They aimed for thirty. The engine refused. Consider what that means: a professional design team, in a polled update, engineered you additional permission to ignore their game. Somewhere in Cambridge, a developer fought technical debt so that you could walk away from their product for longer. Name another studio that would file that under features.
 
-`[VISUAL: needle at 15%; the Project Rebalance quote on screen, "low intensity" highlighted]`
+The rates down here are modest. Everyone knows they're modest. Nobody resents it. Hold onto that lack of resentment — it's carrying more weight than it looks.
 
-## STOP 3 — ~40%: Market rate
+[VISUAL: needle at 3%; NMZ on one monitor, a film clearly playing on the second]
 
-Ordinary engaged play: slayer tasks, quests, mid-tier bossing. One screen, most of your mind, reasonable returns. Brief stop — its job is to establish the middle so the top has somewhere to tower over. Note in passing that this tier is where every *other* game lives permanently, because every other game has only this rung.
+---
 
-`[VISUAL: needle at 40%; ordinary slayer footage, comfortable]`
+**One rung up. Fifteen percent. The podcast tier.**
 
-## STOP 4 — ~75%: Overtime (the pattern snaps into focus)
+The click-a-minute economy: AFK woodcutting, easy fishing, anything you can do with a podcast in your ears and most of your mind elsewhere. I'd wager this is where the majority of this game's total hours actually live — I can't prove that, no such statistic exists, but check it against your own evenings.
 
-Tick manipulation. Same fish, same river as the podcast tier — but you bring a herb, tar, and a pestle and mortar, and you drum a rhythm on the skilling timer, and the same activity pays 67% more. One-tick karambwans clear a million cooking XP an hour. Same content. Same hour of your life. Wildly different price, and the *only* variable that changed is how much of your mind you surrendered.
+The XP is slow, and the game says so up front. And Jagex builds this tier on purpose, in writing. Their own Project Rebalance blog promises "attractive alternatives for low intensity skillers." *Low intensity.* Their vocabulary, in patch notes, in public. Community consultation told them players wanted low-intensity social training, and the answer was an entire expansion — Forestry — engineered so lumberjacks could be lazy *together*. The attention dial is in the dev blogs, in their words, hiding in plain sight.
 
-**This is where the video's idea lands, mid-climb, as a realization rather than an announcement:** the game was never paying you for your time. Every rate on the wiki is a posted price for attention. The whole game is one market, and you've been trading on it for years without being told — except you were told, at every rung, by the rates themselves.
+[VISUAL: needle at 15%; the Project Rebalance quote on screen, "low intensity" highlighted in the channel's style]
 
-`[VISUAL: needle jumps to 75%; split-screen — same fishing spot, relaxed vs 3-ticking, XP counters diverging]`
+---
 
-## STOP 5 — ~95%: The exchange rate at the top
+**The middle. Forty percent.**
 
-Prayer flicking: the drain counter, the activation-tick grace, and the consequence — pay total attention and protection is free. Attention converting directly into supplies, gp, survival. Then the Inferno tier, where attention buys what gold cannot: there is no item that does the flicking for you. At the very top of the market, attention is the only accepted currency. The rich can buy gear; they cannot buy this rung.
+Slayer tasks. Questing. Mid-tier bossing. One screen, most of your mind, fair returns. There's very little to say about this rung except the thing that's easy to miss: every other game you own lives here permanently. This is the only rung they have. An entire industry's craft is devoted to keeping your needle pinned somewhere north of forty for the length of a session, and it has no vocabulary for a player who'd like to give less. OSRS passes through this tier on its way to stranger places.
 
-`[VISUAL: needle at 95%; 1-tick flicking with the prayer orb strobing on the metronome]`
+[VISUAL: needle at 40%; comfortable slayer footage; a shelf of other games' box art at the same fixed height]
 
-## STOP 6 — 100%: The ceiling is made of meat
+---
 
-Short, and the tone drops. The market's top rung bills your body. Sustained tick-perfect play is an RSI machine; the community jokes about wrists the way miners joke about lungs, which is to say: it's a joke built on a real invoice. The dial goes to 100, and the player holding it there is spending something that doesn't regenerate on a logout timer. No resolution here — just leave the cost on the table and start back down.
+**Seventy-five percent. Watch closely, because this is where the trick of the whole game becomes visible.**
 
-`[VISUAL: needle pinned at 100, trembling; hands on a keyboard, no game footage at all]`
+Go back to the river from the podcast tier. Same fish. Same spot. Same stats, same gear, same luck. But this time bring a swamp herb, swamp tar, and a pestle and mortar, and instead of clicking once a minute, drum a rhythm against the game's clock — mix, click, mix, click, three ticks forever. The fish arrive sixty-seven percent faster. Nothing about the river changed. One-tick karambwans, the same principle pointed at a cooking range, clear a million experience an hour while the relaxed version pays a fraction of it. Same content. Same sixty minutes of your finite life. Only one variable moved: how much of your mind you surrendered to the metronome.
 
-## THE LOOKOUT — every other attention market you're in
+And there it is — the thing I've been walking you up toward. Every experience rate in this game, every number on every wiki page, is a posted price for attention. The "per hour" printed on the end is a unit error nobody has bothered to correct. The dial reads what you're paying. The rate is what you're paid. The market has been open, legible, and fair for twenty-five years, disguised as a list of training methods.
 
-From the top, look outward instead of down. You are currently inside several attention economies. The infinite scroll is an attention market where the price is concealed, the wage is nothing, and the exchange rate is set by a machine-learning system whose only KPI is keeping your needle pinned. The entire modern internet monetizes the same resource OSRS meters — except OSRS posts the price on a public wiki, lets you choose your tier, pays a wage at every rung, and built a logout timer to send you away. The most 2007 game on the internet is running the only honest attention market you touch. *(This is the crossover claim — the reason a non-OSRS viewer shares this video.)*
+[VISUAL: needle jumps to 75%; split screen — same fishing spot, relaxed vs 3-ticking, XP counters diverging in real time]
 
-**Then the counterargument, both barrels, no scaffold announcing it:**
-1. **An honest casino is still a casino.** Posted prices don't refund your hours; 6,000 hours fairly priced is still 6,000 hours, and "at least it told me the rate" is a strange epitaph. The honesty defense has a ceiling — concede it cleanly.
-2. **The market has an inflation problem nobody manages.** RuneLite deflates the price of attention — metronomes, markers, idle alerts lower what a rate *costs* while the wiki price stays fixed — and Jagex now balances new content around plugin-assisted attention, which strands the vanilla client like cash in a card economy. The honest market's prices are drifting and there's no central bank for this currency. *(One-line callback available to the central bank video.)*
+---
 
-`[VISUAL: the gauge multiplying — a wall of gauges labeled with app logos, all pinned at 100 by external hands; then OSRS's, with the player's own hand on the dial]`
+**Ninety-five percent. Near the top, the market starts selling things money can't touch.**
 
-## THE DESCENT — what the meter was measuring
+Prayer flicking. The mechanics, quickly: every active prayer feeds a hidden drain counter each tick, and your resistance is twice your prayer bonus plus sixty — but the game never charges you on the tick a prayer switches on. So switch it off and on, every tick, in rhythm, and protection is free. You are paying with the needle instead. Attention converting directly into saved supplies, saved gold, survival.
 
-Come down the ladder quietly and say the true thing at the bottom. William James, 1890: "My experience is what I agree to attend to." Attention is your life arriving one moment at a time — the dial was never measuring focus; it was measuring how much of your finite existence the game is currently made of. Every app on your phone is bidding for that. One of them tells you the price, in XP per hour, on a public wiki, and lets you set the dial to three percent and listen to a podcast with the rest of yourself.
+And at the summit — the Inferno, the tick-perfect raids — attention becomes the only accepted tender. There is no item that flicks for you. The wealthiest player in the game and the poorest stand at the same counter up here, and the counter takes one currency. Gold buys gear. It has never once bought this rung.
 
-Land tender, undercut once. Candidate close: *"The needle's still there when you log out, by the way. Everything bids on it. Set it like it's yours."* — then one dry beat, e.g., *"Anyway. Your logs are done."*
+[VISUAL: needle at 95%; 1-tick flicking, the prayer orb strobing on the beat like a metronome light]
+
+---
+
+**One hundred. Briefly, because this rung deserves better than a joke.**
+
+Hold the dial at maximum long enough and the bill arrives somewhere new: your hands. Sustained tick-perfect play is repetitive strain in formal dress, and the community jokes about wrists the way miners used to joke about lungs — which is to say, it's a joke resting on a real invoice. The player holding the needle at a hundred is spending something with no logout timer and no regeneration rate. I don't have a clever way to fold that into the market metaphor, so I'm not going to. It just sits up here, at the top, being true.
+
+[VISUAL: needle pinned at 100, trembling; hands on a keyboard; no game footage at all]
+
+---
+
+**From the top of the dial, look outward for a minute — at the other attention markets you're standing in.**
+
+Because you are standing in several, right now. The infinite scroll is an attention market. The autoplaying feed is an attention market. The difference is the terms. Over there, the price is concealed, the wage is zero, and the exchange rate is set by a recommender system whose single job is keeping your needle pinned to the ceiling for as long as your biology allows. You are the crop. Nobody posts the price, because the price is you, and you were never fucking consulted.
+
+Now look back down the ladder we just climbed. Posted prices, on a public wiki, to the decimal. A menu of intensities — pick a rung, earn the going rate, no penalty for the podcast tier, no anxiety subscription for logging off. A logout timer that shows you the door, recently upgraded to show it to you more politely. Whatever else you want to say about a goblin-clicking game from 2007, say this as well: it is the only attention economy you participate in that behaves like an honest counterparty.
+
+And now the two objections, because they're both right.
+
+First. An honest casino is still a casino. Posted rates don't hand your hours back. Six thousand hours, fairly priced, freely chosen, is still six thousand hours, and "at least it told me the rate" is a strange thing to carve on a tombstone. The honesty defense has a ceiling. I've just hit it. Moving on.
+
+Second — quieter, and more interesting. The honest market has an inflation problem. RuneLite — the metronomes, the tile markers, the idle alerts — lowers what a given rate *costs* in attention, while the posted wage stays fixed. The plugins are deflating the currency. And Jagex increasingly balances new content around plugin-assisted attention, which strands the vanilla client the way card readers stranded cash. Nobody voted on this repricing, and nobody manages it. This game runs a central bank for its gold, as it happens — that's another video — and nothing at all for its real currency.
+
+[VISUAL: a wall of gauges labeled with familiar app logos, every needle pinned at 100 by hands reaching in from off-screen; then the OSRS gauge, the player's own hand resting on the dial]
+
+---
+
+**Come back down.** Past the flickers, past the metronome river, past the man at the Nightmare Zone — still there, still winning, kettle on. Bottom of the ladder. One thing left to say.
+
+In 1890, William James — trying to define attention a full century before anyone worked out how to strip-mine it — wrote: *"My experience is what I agree to attend to."* Read it again, slowly, because it's a horror sentence and a user manual at the same time. Your experience — the actual felt content of your life — is whatever you attend to. Which means the meter we've been climbing all video measures something much bigger than focus. It measures what fraction of your one existence the game is currently made of. That's the resource. That's what everything — the river, the feed, the scroll, and yes, this video, I'm aware — has been bidding on the entire time.
+
+Most of the bidders lie about it. One of them — absurdly, a medieval clicking simulator older than some of its players — prints the price in public, lets you set the dial to three percent, and sends the rest of you back to the podcast, or the kettle, or whoever's waiting in the kitchen.
+
+The needle doesn't stop when you log out. Everything bids. Set it like it's yours.
+
+…Anyway. Your logs are done.
+
+[VISUAL: the gauge, alone on black, needle drifting gently below 5%; one wood-cutting complete chime; cut to black]
 
 ---
 
 ## SEO PACKAGE
 
 **Title (ranked options, keyword-front, <60 chars):**
-1. **The Hidden Price of Every OSRS Grind** — "OSRS grind" is a high-volume search phrase; curiosity gap without clickbait debt.
-2. **OSRS's Real Currency Is Your Attention** — declarative thesis title; "OSRS" + "attention" for the crossover audience.
-3. **AFK to Tick-Perfect: How OSRS Prices Your Attention** — keyword-dense (AFK, tick-perfect), matches the channel's colon-title convention.
+1. **The Hidden Price of Every OSRS Grind** — "OSRS grind" search volume + curiosity gap.
+2. **OSRS's Real Currency Is Your Attention** — declarative crossover title; the one design blogs link.
+3. **AFK to Tick-Perfect: How OSRS Prices Your Attention** — keyword-dense, matches the channel's colon convention.
 
-**Description (first two lines are what search + preview show — keywords front-loaded):**
-> Every OSRS training method has a posted price, and it's measured in attention. From AFK woodcutting and NMZ to tick manipulation and 1-tick prayer flicking, Old School RuneScape prices every XP rate by how much of your mind it demands — a game design analysis of gaming's only honest attention economy.
+**Description (first two lines carry the keywords search previews index):**
+> Every OSRS training method has a posted price, and it's measured in attention. From AFK woodcutting and Nightmare Zone to tick manipulation and 1-tick prayer flicking, Old School RuneScape prices every XP rate by how much of your mind it demands — a game design analysis of gaming's only honest attention economy.
 >
-> Chapters below. Sources: OSRS Wiki (game tick, prayer drain, tick manipulation), Jagex's Project Rebalance blog, William James (1890).
+> Chapters below. Sources: OSRS Wiki (game tick, prayer drain, tick manipulation), Jagex's Project Rebalance blog, William James, *Principles of Psychology* (1890).
 
 **Tags:** osrs, old school runescape, osrs game design, video essay, afk osrs, osrs afk methods, tick manipulation osrs, prayer flicking, nightmare zone, osrs xp rates, attention economy, runescape analysis, game design analysis, forestry osrs, runelite
 
-**Chapters (keyword-bearing — these surface in Google/YouTube search as key moments):**
+**Chapters (keyword-bearing timestamps — set exact times in edit):**
 - 0:00 The Meter Nobody Sees
-- 1:10 0% — AFK OSRS: The Game That Lets You Leave
-- 3:20 15% — The Podcast Tier (AFK Skilling by Design)
-- 5:10 40% — Market Rate: Slayer & Bossing
-- 6:20 75% — Tick Manipulation: Same Hour, Double the Pay
-- 8:40 95% — Prayer Flicking: The Top of the Market
-- 10:30 100% — The Human Ceiling
-- 11:20 The Other Attention Economies You're In
-- 13:00 An Honest Casino Is Still a Casino
-- 14:00 What the Meter Was Measuring
+- ~1:10 0% — AFK OSRS: The Game That Lets You Leave
+- ~3:20 15% — The Podcast Tier (AFK Skilling by Design)
+- ~5:00 40% — Market Rate: Slayer & Bossing
+- ~6:00 75% — Tick Manipulation: Same Hour, Double the Pay
+- ~8:20 95% — Prayer Flicking: The Top of the Market
+- ~10:10 100% — The Human Ceiling
+- ~11:00 The Other Attention Economies You're In
+- ~12:50 An Honest Casino Is Still a Casino
+- ~13:50 What the Meter Was Measuring
 
-**Thumbnail (complements, never repeats, the title):** an analog gauge from green (AFK) to red (TICK-PERFECT) with a hand on the dial — text: "YOU SET THE PRICE". Alt: half a face lit by two monitors, gauge overlay, "THE REAL COST".
-
-**SEO-structural notes:** the gauge-percentage chapter format invites timestamp citations and comment-section arguments about which rung viewers live on (comment velocity = algorithm fuel); the crossover claim in the Lookout is the shareable segment for non-OSRS audiences (r/truegaming, design Twitter); title option 2 is the one general-gaming sites could link.
+**Thumbnail:** analog gauge from green (AFK) to red (TICK-PERFECT), a hand on the dial — "YOU SET THE PRICE". Alt: half a face lit by two monitors, gauge overlay, "THE REAL COST".
 
 ---
 
-## Facts to verify at script stage
-- [ ] Rung XP examples: AFK woodcutting rates vs 2t teaks; NMZ afk XP/hr; pick 2–3 clean pairs from the wiki
-- [ ] "Most of the game's total hours live at low intensity" — no stat exists; keep phrased as an interpretive claim
-- [ ] Exact Project Rebalance sentence for the on-screen quote
-- [ ] William James exact wording (Principles of Psychology, 1890)
-- [ ] RSI/wrist framing — keep as community-knowledge, no medical claims
-- [ ] "No item does the flicking for you" — sanity-check there's no edge case (e.g., no relic/league mode leaking in)
+## Flags for the user (soft spots to check or tone)
+- **Project Rebalance quote** — "attractive alternatives for low intensity skillers" is sourced from the blog via search excerpts; pull the exact sentence from the update page before putting it on screen.
+- **William James wording** — high confidence ("My experience is what I agree to attend to," *Principles of Psychology*, 1890); verify the exact line before the on-screen card.
+- **"No item flicks for you"** — sanity-check for edge cases (Leagues relics don't count; confirm nothing in the main game automates prayer).
+- **NMZ "clicking once in a very long while"** — kept deliberately loose; if you want a number, verify absorption/overload setups first.
+- **"Majority of hours live at low intensity"** — explicitly framed as an unprovable wager in-script; keep that framing.
+- **One F-bomb** ("you were never fucking consulted") — the register-collision placement, aimed at the feed rather than the game; strip if needed.
+- **RSI section** — community-knowledge framing, no medical claims; keep it that way in the edit.
 
-## Pre-delivery audit
-- [ ] To run at prose stage against `CLAUDE.md` §2a–2d. Known traps flagged inline (one banned-word catch already made in Stop 1).
+## Pre-delivery audit — done
+- [x] §2a–2d scan: three banned-shape constructions caught and rewritten during drafting ("never paying you for time / it pays attention", "isn't my metaphor — it's in the patch notes", "was never measuring focus. It was measuring…") — all rephrased positively; no one-word Q&A hooks; no empty triplets; banned vocab avoided; em dashes rationed; sentence rhythm varied.
+- [x] Every named stat traces to `research/osrs-facts.md` (67% 3t fishing, 1M/hr karambwans, prayer drain formula, 25-min AFK timer) or is flagged above.
+- [x] Interpretation labeled in-voice ("I'd wager," "I can't prove that").
+- [x] Spoken-prose test: contractions, fragments, direct address, the self-aware aside. Reads aloud clean.
