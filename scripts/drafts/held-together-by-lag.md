@@ -79,7 +79,9 @@ And I'll push it further. The tick caps the design space. There are fight rhythm
 
 So take the steelman seriously: a smoother OSRS is technically conceivable, it would be kinder to beginners, and its absence is a real ongoing cost paid by real people. All true.
 
-Here's what's also true. Change the beat and every number in the game changes with it. Every weapon speed, every boss cycle, every safe-spot rhythm, every flick, every 3t cycle, every guide, every record — the entire accumulated wealth of two decades of technique, repriced in one patch. That is a different game wearing the same map. And we don't have to speculate about how players feel about that trade, because the experiment ran. A modernized RuneScape — rebuilt combat, action bars, a system redesigned top to bottom for flow — already exists. It's called RuneScape 3, it's right there, it's free to try. In 2013, four hundred and forty-nine thousand people formed a queue to ask for the slideshow back.
+Here's what's also true. Change the beat and every number in the game changes with it. Every weapon speed, every boss cycle, every safe-spot rhythm, every flick, every 3t cycle, every guide, every record — the entire accumulated wealth of two decades of technique, repriced in one patch. That is a different game wearing the same map.
+
+And if you want evidence of how dangerous that trade is, look at the one company positioned to make it. In 2012, Jagex rebuilt RuneScape's combat from the studs — action bars, abilities, a whole system redesigned for flow. The Evolution of Combat changed nearly everything about how that game plays. It did not touch the tick. RuneScape 3 runs on the same 0.6-second heartbeat to this day; the most aggressive redesign in the game's history walked up to that line and stopped. And even the changes they did make cost them so many players that within a year, Jagex was polling whether to resurrect a backup from 2007, and four hundred and forty-nine thousand people said yes. You don't need to imagine how players respond when you reprice their skills. Jagex ran the cheaper version of the experiment, and the queue to undo it is the reason this game exists.
 
 [VISUAL: tonal downshift for the concession paragraph — plain footage, no overlays; then the 2013 poll graphic]
 
@@ -107,7 +109,7 @@ Anyway. Next tick's in half a second. Do something with it.
 - **Origin of the 600ms tick:** no dev statement found (logged as a gap in the facts ledger). Script says "as best anyone can reconstruct" and attributes it to generic early-2000s server economics — defensible, but soften further if you want zero risk.
 - **"Best combat design decision of the last twenty years"** — framed explicitly as the video's argument, not fact.
 - **Fighting-game history** (SF2 combo bug, Quake bhop, Melee wavedash) — standard, well-documented gaming history at this level of generality; verify before adding any dates or names on screen.
-- **RS3 framing** — RS3 still runs on ticks under the hood; the script only claims its combat was rebuilt for flow, which is accurate. Don't let the edit imply RS3 is tickless.
+- **RS3 framing** — corrected 2026-07-03 (owner note): RS3 runs on the same 600ms tick; EoC rebuilt combat *on top of* it. The script now uses that as direct evidence — even the most aggressive redesign didn't touch the tick. Verify EoC launch (Nov 2012) before putting the date on screen.
 - **One F-bomb** (3t4g section) — same deal as before, strip if wrong for the channel.
 - **"Your dad's reflexes clear that bar"** — check the read; it's a joke, but it flirts with condescension if delivered flat.
 

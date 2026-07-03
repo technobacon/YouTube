@@ -45,6 +45,7 @@ Prefer primary sources: the OSRS Wiki (oldschool.runescape.wiki), official Jagex
 | 1-tick karambwans | Over 1,000,000 Cooking XP/hr | OSRS Wiki: Tick manipulation | 2026-07-03 | |
 | 2-tick woodcutting | Default WC delay 4 ticks; auto-retaliate vs NPC with rapid weapon → rolls every 2 ticks | OSRS Wiki: Tick manipulation | 2026-07-03 | |
 | **GAP:** origin of the 600ms value | No dev statement found explaining the original choice or confirming it can't change | searched 2026-07-03 | 2026-07-03 | Script must frame origin as general early-2000s server architecture, no invented dev quotes. |
+| RS3 tick system | RS3 runs on the same 600ms game tick; EoC (Nov 2012) rebuilt combat on top of it without changing the tick | Owner-confirmed 2026-07-03; common knowledge | 2026-07-03 | EoC launch date (Nov 2012) from memory — verify before putting on screen. |
 
 ---
 
