@@ -54,8 +54,8 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Possible hook:** Open on the GE ticker like a Bloomberg terminal. Somewhere in Cambridge, someone's job is deciding how much money should exist in a medieval fantasy world.
 - **Strongest counterargument:** The real economy is the shadow one — bots and RWT set prices more than Jagex does, and the "central bank" is a night watchman who can't stop the counterfeiters.
 - **Evidence needed:** verified 2026-07-03 → `research/osrs-facts.md` (tax 1%→2% history, 5.6T item sink w/ 399 tbows, GE polled in at 76.3%, bonds Mar 2015, Venezuela/NPR). Re-check time-sensitive numbers at recording.
-- **Status:** outlined → `scripts/drafts/jagex-central-bank.md`
-- **Facts confidence:** high (snapshot numbers dated May 2025, refresh before publish)
+- **Status:** drafted → `scripts/drafts/jagex-central-bank.md`
+- **Facts confidence:** high (tax re-verified 2% as of Jul 2026; sink/bond snapshots to refresh at recording)
 
 ## 5. OSRS Quests Are Designed to Waste Your Time
 - **Thesis:** OSRS quests are the best in the genre because they're allowed to inconvenience you — they gate rather than reward, refuse to mark objectives, and the permission slips they hand out (mechanics, areas, gear) are what keep the world's geography meaningful.
