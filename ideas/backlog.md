@@ -2,7 +2,7 @@
 
 Every video starts here as a thesis, not a topic. A good entry is something a knowledgeable player might argue with or hasn't consciously noticed. "Let's look at X" is not a thesis.
 
-**Status key:** `spark` (raw) → `angle` (thesis locked) → `outlined` → `drafting` → `final` → `published`
+**Status key:** `spark` (raw) → `angle` (thesis locked) → `outlined` → `drafting` → `final` → `published` → `scrapped`
 
 ### Entry format
 
@@ -19,27 +19,69 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 
 ---
 
-## IN DEVELOPMENT
+## CANDIDATES — pitched 2026-07-03, awaiting pick
 
-## Sisyphus Would Have Loved Old School RuneScape
-- **Thesis:** OSRS is the most honest game ever made about what games are — it quantifies its own futility up front, and that honesty (which design orthodoxy says should kill a game) is why it works.
-- **The itch:** "Grindy" is a pejorative everywhere except the one game that grew by refusing to hide the grind.
-- **Possible hook:** The Greeks designed the worst punishment imaginable; cut to a man on hour 400 of rooftop laps, content.
-- **Strongest counterargument:** The Skinner box reading — it's not revolt, it's variable-ratio reinforcement, and Camus is cope.
-- **Evidence needed:** XP curve numbers, 2013 launch vote, Leagues spikes, ironman behavior, Camus exact quotes. See draft.
-- **Status:** drafted → `scripts/drafts/sisyphus-osrs.md`
-- **Facts confidence:** high (verified 2026-07-03, see research/osrs-facts.md)
-- **Note:** The voice-pivot test video. Full exurb1a dial.
+## 1. Old School RuneScape Is Held Together by Lag
+- **Thesis:** The 600ms tick — a 2001 server constraint the game never shed — accidentally built OSRS's entire skill ceiling, and smoothing it out would delete two decades of technique.
+- **The itch:** Players curse the tick daily (pathing, dead clicks, stalls) while every skill-expression mechanic they're proud of — flicking, tick manipulation, tick-eating — only exists because of it.
+- **Possible hook:** A world-record speedrun clip where the player's hands are doing something invisible to the camera, then: every trick in that clip is an exploit of lag.
+- **Strongest counterargument:** The jank is a real tax — new players bounce off dead clicks and pathing misery; Jagex itself has flirted with engine work. Romanticizing limitation is survivorship bias.
+- **Evidence needed:** tick = 0.6s (canonical); precise prayer-flick drain mechanics; 3t4g / 2t woodcutting examples; any Jagex statements on engine/tick changes.
+- **Status:** angle
+- **Facts confidence:** med
+
+## 2. The Attention Tax (OSRS's Invisible Stat)
+- **Thesis:** Every reward rate in OSRS is priced in attention — the game has a second, unlisted balancing axis running from full-afk to tick-perfect, and once you see it, a dozen "weird" design choices snap into focus.
+- **The itch:** Why does prayer flicking exist? Why is the best XP always the most miserable? Why can you legitimately play this game while working? Same answer, every time.
+- **Possible hook:** Two players get the same 99. One watched Netflix for 300 hours; one performed 300 hours of tick-perfect inputs in half the time. The game priced both fairly, and no other game can.
+- **Strongest counterargument:** "Attention pricing" at the top end is an RSI machine, and RuneLite (markers, metronomes, helpers) has quietly deflated the price of attention without rewards adjusting — the axis is eroding.
+- **Evidence needed:** prayer drain/flick mechanics, afk-vs-intense XP rate comparisons (e.g., afk trees vs tick teaks), Jagex design blogs using "low-intensity" language, logout timer.
+- **Status:** angle — absorbs the earlier "Prayer is a second health bar" spark
+- **Facts confidence:** med
+
+## 3. OSRS Is a Democracy, and It Shouldn't Work
+- **Thesis:** OSRS is the only MMO governed by player supermajority, and the punishing threshold — built to slow Jagex down — is the single constitutional decision that kept the game alive while every other MMO drifted away from its players.
+- **The itch:** Game designers universally say players don't know what they want. OSRS handed players a veto in 2013 and outgrew everything in its genre.
+- **Possible hook:** The graveyard: Artisan, dead at the polls. Warding, dead at the polls. Skills a design team spent months on, executed by the electorate — and the game is healthier for the bodies.
+- **Strongest counterargument:** It's a managed democracy — Jagex writes the ballot, "integrity changes" bypass the vote entirely, and a supermajority is a status-quo veto where 30% of voters rule. The system's real function is theater that manufactures consent.
+- **Evidence needed:** threshold history (75% at launch; lowered to 70% — confirm date), Artisan/Warding poll results and dates, Sailing's passing vote, examples of unpolled integrity changes.
+- **Status:** angle
+- **Facts confidence:** med
+
+## 4. Jagex Is Running a Central Bank
+- **Thesis:** The Grand Exchange is a managed economy wearing a convenience feature's clothes — buy limits, a transaction tax, item sinks, and gold sinks are monetary policy, and Jagex's least glamorous design work is the reason OSRS avoided the hyperinflation that ate every other MMO economy.
+- **The itch:** Your bank tab has held its value for a decade. That's bizarre. Ask a WoW player what their gold buys now versus 2019.
+- **Possible hook:** Open on the GE ticker like a Bloomberg terminal. Somewhere in Cambridge, someone's job is deciding how much money should exist in a medieval fantasy world.
+- **Strongest counterargument:** The real economy is the shadow one — bots and RWT set prices more than Jagex does, and the "central bank" is a night watchman who can't stop the counterfeiters.
+- **Evidence needed:** GE tax rate/date/cap and where the gold goes, buy limit mechanics, bond introduction date, biggest gold printers (raw gp drops vs alchables), any Jagex economy blog posts.
+- **Status:** angle
+- **Facts confidence:** low-med (economy details need careful sourcing)
+
+## 5. OSRS Quests Are Designed to Waste Your Time
+- **Thesis:** OSRS quests are the best in the genre because they're allowed to inconvenience you — they gate rather than reward, refuse to mark objectives, and the permission slips they hand out (mechanics, areas, gear) are what keep the world's geography meaningful.
+- **The itch:** By every modern metric — XP/hour, repeatability, voice acting, waypoints — these quests are terribly designed. They're also the thing everyone tells you the game does best. Both observations are correct.
+- **Possible hook:** A modern MMO quest: follow the dotted line, kill ten boars, ding. An OSRS quest: a talking chicken, a puzzle that stumps you for an hour, and at the end — permission to use fairy rings for the rest of your life.
+- **Strongest counterargument:** Quest Helper. The majority now follows a dotted line anyway, so the sacred design is already dead and nostalgia is doing the rest. (Response has to take plugin adoption seriously.)
+- **Evidence needed:** concrete unlock examples (fairy rings, Piety, dragon scimitar, RFD chest tiers), quest count, Quest Helper adoption signals, a fair pre-QH vs post-QH framing.
+- **Status:** angle
+- **Facts confidence:** med
+
+---
 
 ## SEED IDEAS
 *Unvalidated sparks — theses to pressure-test, not settled takes. Verify all mechanics before drafting.*
 
-## Prayer is a second health bar the game never tells you about
-- **Thesis:** Prayer's real design job isn't buffs, it's turning attention into a resource — the game charges you for paying attention.
-- **The itch:** Flicking is unintuitive, undocumented, and separates good players from great ones. Why build a core mechanic around something the UI actively hides?
-- **Possible hook:** A clip of a perfect flick at a boss, then: the game is quietly making you pay rent on your own focus.
-- **Strongest counterargument:** It's just an accessibility wall / carpal-tunnel tax that punishes newer players for no design reason.
-- **Evidence needed:** tick timing, protection-prayer damage reduction values, drain rates, examples from high-end PvM.
+## In Defense of Going Dry
+- **Thesis:** OSRS's refusal to add meaningful bad-luck protection is correct — the moment drops are guaranteed, they become wages, and the entire emotional economy of the drop log collapses.
+- **The itch:** The community begs for pity timers; Jagex keeps mostly refusing; the game keeps growing.
+- **Strongest counterargument:** Going 3x dry on a 1/512 isn't identity, it's disrespect for the player's time — and newer designs (points systems, tradeable uniques) show Jagex already quietly agrees.
+- **Status:** spark
+- **Facts confidence:** low
+
+## Jagex No Longer Decides How Hard Its Game Is
+- **Thesis:** RuneLite moved difficulty tuning out of Jagex's hands — bosses are designed at one difficulty and played at another, and every encounter since ToA has been balanced *around* the plugin layer.
+- **The itch:** True tile markers, timers, and helpers changed what "hard" means, and nobody voted on it.
+- **Strongest counterargument:** Plugins are just information parity with the wiki; skill expression survived (Inferno is still the Inferno).
 - **Status:** spark
 - **Facts confidence:** low
 
@@ -51,6 +93,16 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Evidence needed:** how tasks gate content access, XP rates, the role of block/skip mechanics.
 - **Status:** spark
 - **Facts confidence:** low
+
+---
+
+## SCRAPPED
+
+## Sisyphus Would Have Loved Old School RuneScape
+- Fully drafted 2026-07-03, scrapped by owner same day. Script preserved in git history (`scripts/drafts/sisyphus-osrs.md`, removed at commit after 068cc7d). Verified facts from it remain valid in `research/osrs-facts.md`. Philosophy-first framing; the channel's lane is mechanics-first.
+
+## Prayer is a second health bar the game never tells you about
+- Absorbed into candidate #2, "The Attention Tax" — the prayer material becomes its strongest body section.
 
 ---
 
