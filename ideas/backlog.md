@@ -35,9 +35,9 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **The itch:** Why does prayer flicking exist? Why is the best XP always the most miserable? Why can you legitimately play this game while working? Same answer, every time.
 - **Possible hook:** Two players get the same 99. One watched Netflix for 300 hours; one performed 300 hours of tick-perfect inputs in half the time. The game priced both fairly, and no other game can.
 - **Strongest counterargument:** "Attention pricing" at the top end is an RSI machine, and RuneLite (markers, metronomes, helpers) has quietly deflated the price of attention without rewards adjusting — the axis is eroding.
-- **Evidence needed:** prayer drain/flick mechanics, afk-vs-intense XP rate comparisons (e.g., afk trees vs tick teaks), Jagex design blogs using "low-intensity" language, logout timer.
-- **Status:** angle — absorbs the earlier "Prayer is a second health bar" spark
-- **Facts confidence:** med
+- **Evidence needed:** anchors verified 2026-07-03 → `research/osrs-facts.md` (AFK timer to 25 min, Jagex "low intensity skillers" blog language, tick-manip rates, prayer drain). Rung XP pairs to verify at script stage.
+- **Status:** outlined (v2 — ascent structure, honest-attention-market angle) → `scripts/drafts/attention-tax.md`
+- **Facts confidence:** high
 
 ## 3. OSRS Is a Democracy, and It Shouldn't Work
 - **Thesis:** OSRS is the only MMO governed by player supermajority, and the punishing threshold — built to slow Jagex down — is the single constitutional decision that kept the game alive while every other MMO drifted away from its players.
