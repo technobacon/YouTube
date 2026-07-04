@@ -1,28 +1,33 @@
-# Asset pack — "Sisyphus Would Have Loved Old School RuneScape"
+# Asset pack — "Sisyphus Would Have Loved Old School Runescape"
 
-71 images collected for the Sisyphus video (script: `scripts/final/sisyphus-osrs.md`).
-Everything here is either public domain, Creative Commons (attribution noted below), or
+106 images collected for the final script (`scripts/final/sisyphus-osrs.md`).
+Everything is public domain, Creative Commons (attribution noted in the table), or
 Jagex-copyright game imagery usable under the [Jagex fan content policy](https://www.jagex.com/en-GB/terms/fan-content).
-CC BY-SA items: credit the photographer on screen or in the description.
+CC BY / BY-SA items: credit the photographer on screen or in the description.
 
 ## How the folders map to the script
 
 | Folder | Script beats |
 |---|---|
-| `01-greek-myth/` | Hook: "classical paintings of Sisyphus, slow pans, deadpan captions." Five paintings (Titian, von Stuck, Zanchi, Langetti, della Vecchia, Kaselowsky) + an engraving for variety in the pan sequence. Two amphorae showing the actual boulder punishment. Euphronios krater and Thanatos/Hypnos vases for the "he chained up Thanatos" beat. Sennema sculpture + Sisyphus Stones as modern texture. |
-| `02-camus/` | "In 1942, in occupied France…" — three portraits; the 1957 cigarette one is the icon. |
-| `03-skinner/` | The counterargument: Skinner at Harvard, box diagram + lab photos, two pigeons ("the pigeon does not petition the lab for hard mode"), slot machines for the variable-ratio/drop-table comparison. |
-| `04-osrs/` | Rooftop courses (Seers' ×6, Ardougne ×3), agility icons/capes/graceful/marks of grace, run energy material incl. the 2024 rebalance newspost, max cape + Mac, all four ironman badges + three armour sets, skills tab for the 13,034,431 hover, level-up fireworks (gif + still), Nightmare Zone, bond ("subscription service"), Graardor pet (~1/5,000 beat), Leagues logos, OSRS/Jagex logos, logout button. |
+| `01-greek-myth/` | "This is a man. His name is Sisyphus." — six paintings (Titian, von Stuck, Zanchi, Langetti, della Vecchia, Kaselowsky) + an engraving for the opening pan. Two black-figure amphorae showing the actual boulder punishment (one with Persephone supervising). Euphronios krater + Thanatos/Hypnos vases for "the gods caught him cheating death" (Thanatos is the death he chained). Modern sculpture + balanced-stone stacks as texture. |
+| `02-camus/` | "The conclusion everyone borrows from Albert Camus…" — three portraits; the 1957 cigarette-at-desk shot is the icon. |
+| `03-skinner/` | The cold version: "the lever of a Skinner box with the odds printed on the side." Skinner at Harvard, box schematic + lab photos, two pigeons, slot machines for the dopamine-loop/billing beat. |
+| `04-osrs/` | The swamp man: Zulrah in all three forms (green/blue/red = the pray-this-pray-that line), official Zulrah art, Zul-Andra swamp, tanzanite fang icon + detail (the tooth, 1/512), toxic blowpipe, pet snakeling icon/detail/chathead (the 1/4,000 pet that does nothing). The diary section: quest point cape, agility material ("the running man, ran in circles on a rooftop" — icon, cape, Seers'/Ardougne rooftop shots), fire cape + TzTok-Jad ("that orange cape… this big dude, Jad"), ironman badges + armour ("a receipt with your name on it"), Grand Exchange ("he didn't get the fang from the GE"), collection log ("the most honest diary ever kept"), HiScores ("Sisyphus didn't have a highscores leaderboard"), twisted bow (the closing trade), skills tab, level-up fireworks ("the game doesn't even give him fireworks"), logout button (the 6-hour forced logout), bond (the subscription). |
 | `05-texture-misc/` | Boulder-and-hill landscapes for interstitials. |
+| `06-real-life/` | The comparisons: cold coffee at a desk, pianist practicing, gym barbell ("adding a little weight to the bar"), dice ("the dice have no memory"). |
+
+### Extra b-roll (from an earlier draft, kept because it's useful)
+Nightmare Zone, max cape + Mac, Leagues logos, marks of grace/graceful, run-energy material, Graardor pet. None are named in the final script, but most fit the account-as-diary and grind montages.
 
 ## Still needed (can't be downloaded — capture or build these)
 
-- **Gameplay footage**: Seers' rooftop laps at dusk/night (hook + closing zoom-out), NMZ AFK session, max cape day at Mac, ironman tutorial-island creation screen. Record in-game.
-- **Player count chart** with the 3 Aug 2025 peak (240,756) marked — build from misplaceditems.com/rs_tools/graph data; verify the peak still stands before publish.
-- **WoW boost store page** screenshot — grab fresh from Blizzard's shop (copyrighted; fair-use quote in context).
-- **Wiki "efficient hours" tables** scrolling shot — screen-record the OSRS Wiki directly.
-- **XP tooltip hover showing 13,034,431** — in-game screenshot with the skills tab open (the `skills-tab-interface.png` here is the bare tab for mockups).
-- Thumbnail comps ("Greek statue in a max cape") — the Titian/von Stuck figures or a statue photo composited with `max-cape-detail.png`.
+- **Gameplay footage**: a full Zulrah kill with rotation swaps, a kc counter ticking over ("1,847 → 1,848"), the fang/pet drop moment, Jad prayer-switch clip, rooftop agility laps, an ironman tutorial-island creation screen, clan chat typing "Gz".
+- **Chat-line recreations**: "You have a funny feeling like you're being followed." and the 4-hour "consider taking a break" message — screenshot in-game or recreate in the chatbox font.
+- **The 6-hour forced logout** moment — record it or recreate the message.
+- **A "!kc" clan-chat command** screenshot for the "rank 1 in boulder kc" joke.
+- **HiScores front page** live screenshot (the `hiscores-interface.png` here is the wiki's capture; a fresh one with a real name is stronger).
+- **Modern-game contrast footage**: quest arrows/waypoint UI from any big AAA title (fair-use capture).
+- Thumbnail comps: Greek statue/painting figure + fire cape or fang composite.
 
 ## Full credits
 
@@ -62,11 +67,20 @@ CC BY-SA items: credit the photographer on screen or in the description.
 | `04-osrs/ardougne-rooftop-course-1.png` | Ardougne rooftop course — b-roll variety for the agility section | [source](https://oldschool.runescape.wiki/w/File:Ardougne_Rooftop_Course_(1).png) | © Jagex (fan content policy) |
 | `04-osrs/ardougne-rooftop-course-3.png` | Ardougne rooftop course | [source](https://oldschool.runescape.wiki/w/File:Ardougne_Rooftop_Course_(3).png) | © Jagex (fan content policy) |
 | `04-osrs/ardougne-rooftop-course-5.png` | Ardougne rooftop course | [source](https://oldschool.runescape.wiki/w/File:Ardougne_Rooftop_Course_(5).png) | © Jagex (fan content policy) |
+| `04-osrs/collection-log-detail.png` | Collection log — 'the most honest diary ever kept' | [source](https://oldschool.runescape.wiki/w/File:Collection_log_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/collection-log-icon.png` | Collection log icon | [source](https://oldschool.runescape.wiki/w/File:Collection_log_icon.png) | © Jagex (fan content policy) |
 | `04-osrs/energy-drain-graph.png` | Wiki run-energy drain graph | [source](https://oldschool.runescape.wiki/w/File:Energy_drain_graph.png) | © Jagex (fan content policy) |
+| `04-osrs/fighting-tztok-jad.png` | Fighting TzTok-Jad — the shaking-hands evening | [source](https://oldschool.runescape.wiki/w/File:Fighting_TzTok-Jad.png) | © Jagex (fan content policy) |
+| `04-osrs/fire-cape-detail.png` | Fire cape detail render | [source](https://oldschool.runescape.wiki/w/File:Fire_cape_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/fire-cape-equipped.gif` | Fire cape equipped (animated) | [source](https://oldschool.runescape.wiki/w/File:Fire_cape_equipped.gif) | © Jagex (fan content policy) |
+| `04-osrs/fire-cape-icon.png` | Fire cape inventory icon — 'that orange cape' | [source](https://oldschool.runescape.wiki/w/File:Fire_cape.png) | © Jagex (fan content policy) |
 | `04-osrs/graceful-outfit-equipped.png` | Graceful outfit — the agility grinder's uniform | [source](https://oldschool.runescape.wiki/w/File:Graceful_outfit_equipped.png) | © Jagex (fan content policy) |
+| `04-osrs/grand-exchange.png` | Grand Exchange — 'he didn't get the fang from the GE' | [source](https://oldschool.runescape.wiki/w/File:Grand_Exchange.png) | © Jagex (fan content policy) |
 | `04-osrs/group-ironman-chat-badge.png` | Group ironman chat badge icon | [source](https://oldschool.runescape.wiki/w/File:Group_ironman_chat_badge.png) | © Jagex (fan content policy) |
 | `04-osrs/hardcore-ironman-armour-equipped.png` | Hardcore ironman armour equipped | [source](https://oldschool.runescape.wiki/w/File:Hardcore_ironman_armour_equipped_male.png) | © Jagex (fan content policy) |
 | `04-osrs/hardcore-ironman-chat-badge.png` | Hardcore ironman chat badge icon | [source](https://oldschool.runescape.wiki/w/File:Hardcore_ironman_chat_badge.png) | © Jagex (fan content policy) |
+| `04-osrs/hiscores-icon.png` | HiScores icon | [source](https://oldschool.runescape.wiki/w/File:HiScores_icon.png) | © Jagex (fan content policy) |
+| `04-osrs/hiscores-interface.png` | HiScores — 'Sisyphus didn't have a highscores leaderboard' | [source](https://oldschool.runescape.wiki/w/File:HiScores.png) | © Jagex (fan content policy) |
 | `04-osrs/ironman-armour-equipped.png` | Ironman armour equipped — account creation beat | [source](https://oldschool.runescape.wiki/w/File:Ironman_armour_equipped_male.png) | © Jagex (fan content policy) |
 | `04-osrs/ironman-chat-badge.png` | Ironman chat badge icon | [source](https://oldschool.runescape.wiki/w/File:Ironman_chat_badge.png) | © Jagex (fan content policy) |
 | `04-osrs/jagex-logo.png` | Jagex logo | [source](https://oldschool.runescape.wiki/w/File:Jagex_logo.png) | © Jagex (fan content policy) |
@@ -83,6 +97,12 @@ CC BY-SA items: credit the photographer on screen or in the description.
 | `04-osrs/old-school-bond-detail.png` | Old school bond — 'a subscription service' | [source](https://oldschool.runescape.wiki/w/File:Old_school_bond_detail.png) | © Jagex (fan content policy) |
 | `04-osrs/osrs-logo.png` | Old School RuneScape logo | [source](https://oldschool.runescape.wiki/w/File:Old_School_RuneScape_logo.png) | © Jagex (fan content policy) |
 | `04-osrs/pet-general-graardor-detail.png` | General Graardor pet (1/5,000) — the drop-table slot machine beat | [source](https://oldschool.runescape.wiki/w/File:Pet_general_graardor_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/pet-snakeling-chathead.png` | Pet snakeling chathead | [source](https://oldschool.runescape.wiki/w/File:Pet_snakeling_chathead.png) | © Jagex (fan content policy) |
+| `04-osrs/pet-snakeling-detail.png` | Pet snakeling detail render | [source](https://oldschool.runescape.wiki/w/File:Pet_snakeling_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/pet-snakeling-icon.png` | Pet snakeling icon — the 1/4,000 pet that does nothing | [source](https://oldschool.runescape.wiki/w/File:Pet_snakeling.png) | © Jagex (fan content policy) |
+| `04-osrs/quest-point-cape-detail.png` | Quest point cape detail — 'that cape means he sat through quests' | [source](https://oldschool.runescape.wiki/w/File:Quest_point_cape_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/quest-point-cape-emote.gif` | Quest point cape emote (animated) | [source](https://oldschool.runescape.wiki/w/File:Quest_point_cape_emote.gif) | © Jagex (fan content policy) |
+| `04-osrs/quest-point-cape-equipped.png` | Quest point cape equipped | [source](https://oldschool.runescape.wiki/w/File:Quest_point_cape_equipped.png) | © Jagex (fan content policy) |
 | `04-osrs/raging-echoes-league-logo.png` | Leagues V: Raging Echoes logo — Dec 2024, 230k+ concurrent | [source](https://oldschool.runescape.wiki/w/File:Raging_Echoes_League_logo.png) | © Jagex (fan content policy) |
 | `04-osrs/run-energy-changes-2024-newspost.png` | 2024 run energy rebalance newspost image — 'making the prize less insulting' | [source](https://oldschool.runescape.wiki/w/File:Run_Energy_Changes_(1).png) | © Jagex (fan content policy) |
 | `04-osrs/run-energy-orb.png` | Run energy orb — 'the reward was run energy' | [source](https://oldschool.runescape.wiki/w/File:Run_energy_orb.png) | © Jagex (fan content policy) |
@@ -93,9 +113,29 @@ CC BY-SA items: credit the photographer on screen or in the description.
 | `04-osrs/seers-rooftop-course-5.png` | Seers' rooftop course | [source](https://oldschool.runescape.wiki/w/File:Seers%27_Village_Rooftop_Course_(5).png) | © Jagex (fan content policy) |
 | `04-osrs/seers-rooftop-course-6.png` | Seers' rooftop course | [source](https://oldschool.runescape.wiki/w/File:Seers%27_Village_Rooftop_Course_(6).png) | © Jagex (fan content policy) |
 | `04-osrs/skills-tab-interface.png` | Skills tab — the 13,034,431 hover beat | [source](https://oldschool.runescape.wiki/w/File:Skills_tab.png) | © Jagex (fan content policy) |
+| `04-osrs/tanzanite-fang-detail.png` | Tanzanite fang detail render — the tooth, large | [source](https://oldschool.runescape.wiki/w/File:Tanzanite_fang_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/tanzanite-fang-icon.png` | Tanzanite fang inventory icon — the tooth (1/512) | [source](https://oldschool.runescape.wiki/w/File:Tanzanite_fang.png) | © Jagex (fan content policy) |
+| `04-osrs/toxic-blowpipe-detail.png` | Toxic blowpipe — what the fang becomes | [source](https://oldschool.runescape.wiki/w/File:Toxic_blowpipe_detail.png) | © Jagex (fan content policy) |
 | `04-osrs/trailblazer-league-logo.png` | Trailblazer League logo — Leagues b-roll variety | [source](https://oldschool.runescape.wiki/w/File:Trailblazer_League_logo.png) | © Jagex (fan content policy) |
+| `04-osrs/twisted-bow-detail.png` | Twisted bow detail render | [source](https://oldschool.runescape.wiki/w/File:Twisted_bow_detail.png) | © Jagex (fan content policy) |
+| `04-osrs/twisted-bow-icon.png` | Twisted bow icon — the closing trade offer | [source](https://oldschool.runescape.wiki/w/File:Twisted_bow.png) | © Jagex (fan content policy) |
+| `04-osrs/tztok-jad.png` | TzTok-Jad — 'this big dude, Jad' | [source](https://oldschool.runescape.wiki/w/File:TzTok-Jad.png) | © Jagex (fan content policy) |
 | `04-osrs/ultimate-ironman-armour-equipped.png` | Ultimate ironman armour equipped | [source](https://oldschool.runescape.wiki/w/File:Ultimate_ironman_armour_equipped_male.png) | © Jagex (fan content policy) |
 | `04-osrs/ultimate-ironman-chat-badge.png` | Ultimate ironman chat badge icon | [source](https://oldschool.runescape.wiki/w/File:Ultimate_ironman_chat_badge.png) | © Jagex (fan content policy) |
 | `04-osrs/xp-drops-icon.png` | XP drops settings icon | [source](https://oldschool.runescape.wiki/w/File:XP_drops_icon.png) | © Jagex (fan content policy) |
+| `04-osrs/zul-andra-swamp.png` | Zul-Andra — the swamp itself | [source](https://oldschool.runescape.wiki/w/File:Zul-Andra.png) | © Jagex (fan content policy) |
+| `04-osrs/zulrah-chronicle-art.png` | Official Zulrah art — hero image for the swamp-man sequence | [source](https://oldschool.runescape.wiki/w/File:Zulrah_Chronicle_art.png) | © Jagex (fan content policy) |
+| `04-osrs/zulrah-icon.png` | Zulrah boss icon | [source](https://oldschool.runescape.wiki/w/File:Zulrah_icon.png) | © Jagex (fan content policy) |
+| `04-osrs/zulrah-magma-red.png` | Zulrah, magma (red) form — 'red means step off the tile' | [source](https://oldschool.runescape.wiki/w/File:Zulrah_(magma).png) | © Jagex (fan content policy) |
+| `04-osrs/zulrah-serpentine-green.png` | Zulrah, serpentine (green) form — 'green means pray this' | [source](https://oldschool.runescape.wiki/w/File:Zulrah_(serpentine).png) | © Jagex (fan content policy) |
+| `04-osrs/zulrah-tanzanite-blue.png` | Zulrah, tanzanite (blue) form — 'blue means pray that' | [source](https://oldschool.runescape.wiki/w/File:Zulrah_(tanzanite).png) | © Jagex (fan content policy) |
 | `05-texture-misc/boulder-landscape-hampi.jpg` | Granite boulder landscape, Matanga Hill, Hampi — hill & boulder texture | [source](https://commons.wikimedia.org/wiki/File%3AHampi%2C_India%2C_Rocky_landscape_of_Hampi%2C_Granite_rocks_of_Matanga_Hill.jpg) | CC BY 4.0 — Vyacheslav Argenberg |
 | `05-texture-misc/rolling-hill-tongo.jpg` | Rolling hill with boulders, Tongo | [source](https://commons.wikimedia.org/wiki/File%3AA_rolling_hill_at_Tongo.jpg) | CC BY-SA 4.0 — Ibrahim Achiri |
+| `06-real-life/coffee-cup-white.jpg` | Plain cup of coffee | [source](https://commons.wikimedia.org/wiki/File%3AWhite_cup_filled_with_coffee.jpg) | CC BY 3.0 — Douglas P Perkins |
+| `06-real-life/coffee-gone-cold-desk.jpg` | Coffee at a desk — 'his coffee has gone cold' | [source](https://commons.wikimedia.org/wiki/File%3ACoffee_while_working.jpg) | CC BY-SA 4.0 — Shanazar Nizamaddinov |
+| `06-real-life/dice-assorted.jpg` | Assorted dice — 'the dice have no memory' | [source](https://commons.wikimedia.org/wiki/File%3ASpielw%C3%BCrfel.jpg) | CC BY 4.0 — Schlurcher |
+| `06-real-life/dice-transparent-red.jpg` | Transparent red casino dice — the dice you look at before you pick them up | [source](https://commons.wikimedia.org/wiki/File%3ATransparent_dice.jpg) | CC BY 2.0 — Roland |
+| `06-real-life/gym-heavy-barbell.jpg` | Man lifting a heavy barbell — 'adding a little weight to the bar' | [source](https://commons.wikimedia.org/wiki/File%3AMan_lifting_a_heavy_barbell.jpg) | CC0 — Binyamin Mellish |
+| `06-real-life/gym-weightlifting-bataan.jpg` | Weightlifting under load — high-quality lift shot | [source](https://commons.wikimedia.org/wiki/File%3AMPOTY_2014_Weight-lifting_competition_aboard_the_USS_Bataan.jpg) | Public domain — U.S. Marine Corps photo by Sgt. Austin Hazard |
+| `06-real-life/pianist-flying-keyboard.jpg` | Pianist mid-performance | [source](https://commons.wikimedia.org/wiki/File%3AFlying_across_the_keyboard_-_%28460082542%29.jpg) | CC0 — cogdogblog |
+| `06-real-life/pianist-hands-practicing.jpg` | Hands practicing piano — 'the musician practicing for a performance' | [source](https://commons.wikimedia.org/wiki/File%3APlaying_the_piano_2.jpg) | CC BY-SA 2.0 — lecates |
