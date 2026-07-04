@@ -99,7 +99,7 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 ## SCRAPPED
 
 ## Sisyphus Would Have Loved Old School RuneScape
-- Fully drafted 2026-07-03, scrapped by owner same day. Script preserved in git history (`scripts/drafts/sisyphus-osrs.md`, removed at commit after 068cc7d). Verified facts from it remain valid in `research/osrs-facts.md`. Philosophy-first framing; the channel's lane is mechanics-first.
+- ~~Fully drafted 2026-07-03, scrapped by owner same day.~~ **Un-scrapped 2026-07-04 by owner — now the final script.** Restored from git history to `scripts/final/sisyphus-osrs.md`. Image assets collected in `assets/sisyphus-osrs/` (see its README for the shot list still to capture). Verified facts in `research/osrs-facts.md`.
 
 ## Prayer is a second health bar the game never tells you about
 - Absorbed into candidate #2, "The Attention Tax" — the prayer material becomes its strongest body section.
