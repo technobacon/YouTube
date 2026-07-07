@@ -75,8 +75,8 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Thesis:** OSRS's refusal to add meaningful bad-luck protection is correct — the moment drops are guaranteed, they become wages, and the entire emotional economy of the drop log collapses.
 - **The itch:** The community begs for pity timers; Jagex keeps mostly refusing; the game keeps growing.
 - **Strongest counterargument:** Going 3x dry on a 1/512 isn't identity, it's disrespect for the player's time — and newer designs (points systems, tradeable uniques) show Jagex already quietly agrees.
-- **Status:** spark
-- **Facts confidence:** low
+- **Status:** drafted (2026-07-07, Project V2) → `scripts/project-v2/03-dry-anonymous.md` — support-group format; the counterargument above became the script's turn ("the hard question"). Pillar flag outstanding: verify current bad-luck-mitigation state before recording.
+- **Facts confidence:** med (math is self-contained; "no pity timers" currency needs a check)
 
 ## Jagex No Longer Decides How Hard Its Game Is
 - **Thesis:** RuneLite moved difficulty tuning out of Jagex's hands — bosses are designed at one difficulty and played at another, and every encounter since ToA has been balanced *around* the plugin layer.
@@ -91,8 +91,8 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 - **Possible hook:** Open on the paralysis of a maxed account with nothing to do, versus a fresh Slayer task.
 - **Strongest counterargument:** It's a Skinner-box chore loop dressed up as content; "engagement" isn't the same as good design.
 - **Evidence needed:** how tasks gate content access, XP rates, the role of block/skip mechanics.
-- **Status:** spark
-- **Facts confidence:** low
+- **Status:** drafted (2026-07-07, Project V2) → `scripts/project-v2/02-take-as-prescribed.md` — doctor's-appointment format; the Skinner counterargument escalated into the script's turn (Slayer vs. the feed, "the three mercies"). Task-lock/skip-cost facts still to verify.
+- **Facts confidence:** med (mechanics described numberless; verification worklist in the script's flags)
 
 ---
 
