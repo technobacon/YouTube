@@ -38,6 +38,8 @@ Owner's manual / bedtime story / reference letter / crash investigation / guided
 
 ## Suggested release order
 
+> **Superseded for launch (2026-07-08):** `launch-topics.md` adds three broad door-opener topics (inflation / money creation / the stock market) that go out *first*, so the algorithm can classify the channel before the specific essays run. The order below still holds for these five, after the launch slate.
+
 1. **#3 (Credit score)** — the most universally-felt grievance, strongest search volume ("credit score explained" is evergreen), the reveal (paying off a loan can hurt you) is proven comment-bait.
 2. **#4 (LTCM)** — the collapse-story lane the niche rewards hardest; best crossover shareability; establishes the channel can do narrative.
 3. **#1 (Compound interest)** — the fake-Einstein hook is a one-search-checkable provocation; benefits from an audience that has now seen the register twice.
