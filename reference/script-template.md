@@ -44,6 +44,21 @@ Copy this into `scripts/drafts/<slug>.md` to start a new script. Delete the guid
 
 ---
 
+## SEO package — 5 ranked title / thumbnail / hook sets
+*Every script ships five complete packages, ranked by SEO. Score each on a blend: search discoverability (exact-match keyword like "OSRS wiki", front-loaded) + CTR pull (does the title overturn something the viewer thought they knew — the channel's proven winner per `reference/channel-context.md`). Weight search slightly higher, but note the CTR tradeoff per set. Keep titles <60 chars. Pair a thumbnail and an opening hook with each title, so the whole click is designed as one unit, not a title in isolation.*
+
+1. **Title:** — *SEO:* ; *Thumbnail:* ; *Hook:*
+2. **Title:** — *SEO:* ; *Thumbnail:* ; *Hook:*
+3. **Title:** — *SEO:* ; *Thumbnail:* ; *Hook:*
+4. **Title:** — *SEO:* ; *Thumbnail:* ; *Hook:*
+5. **Title:** — *SEO:* ; *Thumbnail:* ; *Hook:*
+
+**Description:**
+**Tags:**
+**Chapters:**
+
+---
+
 ### Pre-delivery audit
 - [ ] Scanned against `CLAUDE.md` §2a–2d (no "not X but Y", no one-word-question hooks, no rule-of-three padding, no banned vocab/filler, varied sentence rhythm).
 - [ ] Every stat traces to `research/osrs-facts.md` or is flagged as unverified.
