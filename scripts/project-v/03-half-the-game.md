@@ -109,6 +109,20 @@ So, the biggest interface update in Old School RuneScape's history. No patch not
 
 ---
 
+## MUSIC — by section
+*Style/vibe briefs, not named tracks — source from a licensed library (Epidemic Sound, Artlist, Musicbed). Through-line: one recurring theme (the cold-open music-box/piano motif) stated in 2005, mourned at the turn, resolved at the close, so the score tells the same "two players across time" story as the visuals.*
+
+- **Cold open · 2005 furnace scam (0:00–1:15):** warm lo-fi nostalgia that curdles. Felt piano or music-box/celeste, tape hiss, slightly detuned, ~70 BPM major. On the empty-tile hold, **drop out to silence** for "You know how this story ends."
+- **Hard cut to 2026 · alt-tab raid (1:15–2:00):** clinical, modern. Tight electronic pulse, clean arp / muted synth stabs, ~120 BPM, no warmth. Duck hard under "same 600 milliseconds."
+- **Thesis / open loop (~2:00):** pull back to a sustained pad or low drone that opens and holds — "settle in." Breathe under the `[beat]` before "handed over the keys."
+- **Body 1 · folklore era (2:00–5:00):** human, ramshackle. Plucked guitar, upright bass, light hand perc or a playful mallet motif; mid-tempo, warm with an *unreliable* edge (bent notes, wonky rhythm). Soften right down for "hold both."
+- **Body 2 · formalization → 2018 → the button (5:00–8:00):** the build. Ticking methodical ostinato for the datamining stretch; layer strings/pad across the section. At `[slow]` "In 2018, Jagex went the other way" — **the swell**, biggest dynamic moment of the first half.
+- **Body 3 · balanced for the wiki (8:00–10:00):** pull way back. Minimal, tense rhythmic underscore, low dynamics — don't compete with the sharpest claim.
+- **The turn · "the wiki ruined discovery" (10:00–12:30):** elegiac. Solo piano or lone cello, sparse, minor/modal — **callback the cold-open motif, transposed sadder** — for "something real died." As the rebuttal turns, resolve to something steadier/warmer. Near-silence around the `»` variance line.
+- **Synthesis · both timelines meet (12:30–14:00):** full close. Cold-open theme returns complete and resolved — strings + piano, warm swell under "the strangest monument." Strip back to almost nothing for the last lines; **cut dead on the browser-tab sound at black.**
+
+---
+
 ## SEO PACKAGE
 
 **Title / thumbnail / hook — 5 sets, ranked by SEO** *(blend: exact-match keyword + front-loading for search, CTR reframe for browse; search weighted slightly higher)*
