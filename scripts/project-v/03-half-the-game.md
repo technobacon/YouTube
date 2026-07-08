@@ -111,10 +111,32 @@ So, the biggest interface update in Old School RuneScape's history. No patch not
 
 ## SEO PACKAGE
 
-**Title (ranked, <60 chars):**
-1. **Half of OSRS Isn't in the Game** — provocation + accurate; "OSRS wiki" hits in description/tags rather than title.
-2. **The OSRS Wiki Is the Real Interface** — keyword-front for "OSRS wiki" searches; design-audience framing.
-3. **Jagex Surrendered to a Fan Site (and Won)** — story-shaped CTR option; crossover appeal.
+**Title / thumbnail / hook — 5 sets, ranked by SEO** *(blend: exact-match keyword + front-loading for search, CTR reframe for browse; search weighted slightly higher)*
+
+1. **The OSRS Wiki Is the Real Game**
+   - *SEO:* leads with the exact search term "OSRS wiki" and reframes it into a claim — search + CTR both maxed. The winner.
+   - *Thumbnail:* split — grainy 2005 trade window (L) vs crisp wiki page (R), "SAME GAME" across the seam.
+   - *Hook:* the existing cold open (2005 furnace scam → hard cut to the 4-second alt-tab raid).
+
+2. **Half of OSRS Isn't in the Game**
+   - *SEO:* the channel's proven overturn shape ("28 Slots of Genius", "Strength Bonus Propaganda") — elite CTR; slips to #2 only because "wiki" sits in tags, not the title, losing search-intent match.
+   - *Thumbnail:* in-client wiki button circled red — "THIS BUTTON IS A CONFESSION".
+   - *Hook:* open on the wiki button being pressed. "Jagex built this button into the client. It's an admission of defeat — and the smartest thing they've done in a decade."
+
+3. **Jagex Surrendered to a Fan Website**
+   - *SEO:* brand keyword "Jagex" + story-shaped curiosity gap; good crossover reach, softer exact-match than #1–2.
+   - *Thumbnail:* Jagex logo + wiki logo, small white flag between — "AND IT SAVED THE GAME".
+   - *Hook:* "In 2018, the studio that owns OSRS did something I can't find another company its size doing — it handed the fan project the keys."
+
+4. **OSRS's Most Important Update Had No Patch Notes**
+   - *SEO:* strong curiosity gap, "OSRS update" is searched, but the payoff (the wiki) isn't legible in the title, so it under-indexes for topic searchers. Better on browse than search.
+   - *Thumbnail:* blank patch-notes page, big red "0", a wiki tab in the corner.
+   - *Hook:* "Name the biggest interface change in OSRS history. No release date. No poll. No patch notes. It shipped to your other monitor."
+
+5. **The Second Monitor Is Part of OSRS Now**
+   - *SEO:* cleanest thesis, weakest search anchor — nobody searches "second monitor," so it rides browse CTR alone. Best as an A/B alt.
+   - *Thumbnail:* two physical monitors, game on one, wiki on the other — "THIS IS THE INTERFACE".
+   - *Hook:* split-screen alt-tab. "Modern OSRS bosses are balanced for one player: the one with the wiki open. That's you. It's always been you."
 
 **Description:**
 > The OSRS Wiki started as fan folklore-control and ended up inside the client. From the armour-trimming scams of 2005 to Jagex publishing real drop rates, this is a game design analysis of how Old School RuneScape's most important interface got built outside the game — and why Jagex backing the wiki in 2018 was its smartest modern decision.
@@ -132,7 +154,7 @@ So, the biggest interface update in Old School RuneScape's history. No patch not
 - 10:00 "The Wiki Ruined Discovery" — the Strong Version
 - 12:30 What the Wiki Can't Index
 
-**Thumbnail:** split-screen — grainy 2005 trade window on the left, crisp wiki page on the right, "SAME GAME" across the seam. Alt: the in-client wiki button circled in red, "THIS BUTTON IS A CONFESSION."
+*(Thumbnails paired with each title above.)*
 
 ---
 
