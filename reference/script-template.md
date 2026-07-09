@@ -1,6 +1,6 @@
 # Script Template
 
-Copy this into `scripts/drafts/<slug>.md` to start a new script. Delete the guidance in italics as you fill each part. The spine comes from `CLAUDE.md` §3; the voice comes from `exurb1a.md`.
+Copy this into `scripts/drafts/<slug>.md` to start a new script. Delete the guidance in italics as you fill each part. The spine comes from `CLAUDE.md` §3; the voice comes from `exurb1a.md`; the `[VISUAL: ]` cues are paced per `CLAUDE.md` §4.5 — **one cue per beat (not per sentence), calm and slow by default**, so the edit stays cheap and on-register. Place a cue only where the image genuinely turns; assume every still gets a slow push/drift so long holds (10–20s+) are fine; save tight cutting for the hook and the rare emphasis spike.
 
 ---
 

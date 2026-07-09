@@ -118,6 +118,19 @@ Worked example (note how sparse it stays):
 
 ---
 
+## 4.5 VISUAL PACING — the camera notes, and why they're slow on purpose
+
+The `[VISUAL: ...]` cue is a camera note, not a voice note (see §4). It tells the editor what's on screen — and, just as importantly, this channel's edit runs **calm and slow by default**. That isn't a budget compromise; it's the target look. The influence doc calls for a lo-fi, unhurried, collage-y edit that lets slow passages breathe, and the meditative pace *is* the experience. Rapid-fire cutting with wall-to-wall sound effects is the wrong style for this register, and it's also the single biggest time sink in a solo edit. So the writing should be built to be edited slowly. That means scripting to these rules:
+
+- **One visual per beat, not per sentence.** Cut when the *idea* changes, never on a clock. A `[VISUAL:]` cue marks a genuine shift in what the argument is looking at — so most cues cover several sentences, and a page of dense narration might hold two or three visuals, not ten. When drafting, place a cue only where the mental image actually turns; if two adjacent sentences share an image, they share a cue.
+- **Let hold length vary, and let it be long.** A held visual living on screen for ten, fifteen, twenty seconds is correct here, provided the VO and music keep earning the eye's patience. Don't score a fixed duration; the beat sets the length. Some holds are a three-second flash, some sit for twenty. That variation is what reads as deliberate rather than lazy.
+- **Stills get motion; footage just plays.** The one trap in a long hold: a dead-static image past ~6–8 seconds reads as a frozen video. Assume every still carries a slow push-in or drift (a Ken Burns move), so it can be held indefinitely; moving footage needs nothing. Write cues with this in mind — a still that has to hold a long reflective beat is fine, because the motion is assumed.
+- **Reserve energy for where it's load-bearing** — same philosophy as the delivery notation's "mark the exception, not the rule." Tighter cutting, quick sequences, and any flourish belong to the two places that earn them: the first 15–30 seconds (the retention-critical hook) and the rare emphasis spike where the writing itself accelerates (often a `[quick]` span or a staccato line-break run). Everywhere else, default to the long, quiet hold. A whole video at one energy is dull; a video calm *except* where it deliberately isn't is the rhythm.
+
+The point of writing to these rules is leverage: the slow edit only works because the script and voice never stop being interesting, so this pushes the work toward the channel's strength (the writing) and away from its most expensive hours (the cut). A cue written this way is one the editor can realise in minutes.
+
+---
+
 ## 5. WORKFLOW
 
 When asked for a new script, default to this sequence (collapse steps if the user just wants a fast draft):
@@ -125,7 +138,7 @@ When asked for a new script, default to this sequence (collapse steps if the use
 1. **Clarify the angle** if the topic is broad — propose 2–3 possible theses and let the user pick, rather than guessing.
 2. **Research / verify mechanics.** OSRS specifics (formulas, drop rates, update dates, item stats) must be accurate. If you're not certain about a number or a patch detail, say so explicitly and flag it for the user to confirm — never invent a stat. Use search/tools when available to verify current game state, since OSRS updates frequently.
 3. **Outline** — thesis + section beats + the intended hook and the intended counterargument.
-4. **Draft** the full script in spoken-narration prose with `[VISUAL: ...]` cues, and layer in the delivery notation from Section 4 where a pause, a pace shift, or an emphasis genuinely earns it.
+4. **Draft** the full script in spoken-narration prose with `[VISUAL: ...]` cues (paced per §4.5 — one per beat, slow by default), and layer in the delivery notation from Section 4 where a pause, a pace shift, or an emphasis genuinely earns it.
 5. **Self-audit** against Section 2 and tighten.
 
 Output scripts as clean prose (not tables) unless the user asks for a two-column visual/VO format. Give an approximate spoken runtime if useful (~150 words ≈ 1 minute).
