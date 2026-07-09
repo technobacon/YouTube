@@ -44,6 +44,7 @@ Never use these unless quoting someone or there is genuinely no better word: *de
 - "Plays a crucial/vital role in…" / "It cannot be overstated…"
 - "…highlighting the need for…" / "…reflecting a broader trend toward…" / "…marking a significant shift in…"
 - Empty transition adverbs as paragraph-openers: *Moreover, Furthermore, Additionally, Notably, Importantly.* Use plain bridges or none.
+- **Fake-pause commands (banned 2026-07-09, owner's call):** "Sit with this/that…", "Hold that (thought)…", "Let that sit/land…", "Savor that…" and all kin — prose that *orders* the viewer to feel weight. If a line deserves dwelling on, score the dwell with §4 notation (`[beat]`, `[hold]`, `»`) and trust the delivery; never instruct the audience to be moved.
 
 ### 2d. Formatting / delivery tells
 

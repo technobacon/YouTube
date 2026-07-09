@@ -68,6 +68,42 @@ Every video starts here as a thesis, not a topic. A good entry is something a kn
 
 ---
 
+## CANDIDATES — pitched 2026-07-09 (Project B, the wide-seed batch), all five drafted
+
+*Selected against the impressions post-mortem: every thesis overturns a belief the entire player base holds; every package legible to a cold stranger. Two owner-rejected pitches (missing party hats, the MIDI soundtrack) and one drafting-cut (travel friction — collides with Project W's boat essay) are logged at the bottom of this section so they don't get re-pitched.*
+
+## 6. The Order of the Grey Helmet (Ironman)
+- **Thesis:** Ironman's popularity is the most damning design review ever filed against the Grand Exchange — a perfect market flattens the game into one activity, and tens of thousands renounced it to get the world's grammar back.
+- **Status:** drafted → `scripts/project-b/01-the-order-of-the-grey-helmet.md`
+- **Facts confidence:** high (launch date + rules verified 2026-07-09)
+
+## 7. Nothing Is Waiting for You (No dailies)
+- **Thesis:** OSRS refuses the entire daily-engagement toolkit, and the refusal is its strongest retention design — obligation converts play into work, and the game that lets you leave is the one nobody quits for good.
+- **Status:** drafted → `scripts/project-b/02-nothing-is-waiting-for-you.md`
+- **Facts confidence:** high on structure; scheduled-content list needs the exact pass (see script flags)
+
+## 8. The Interruption (Clue scrolls)
+- **Thesis:** Clues are the game's only anti-system — built to interrupt optimization — and the design survives its own domestication: the stackable scroll boxes' small cap, priced in completed clues, is the line held inside the concession.
+- **Status:** drafted → `scripts/project-b/03-the-interruption.md`
+- **Facts confidence:** high (ranger boots rate + Scroll Box mechanics verified 2026-07-09)
+
+## 9. State Your Class (Classless design)
+- **Thesis:** OSRS has no classes, and the empty field produced the strongest identity in the genre — a character that is a record, not a pick; the cost (the trinity's engineered interdependence) is faced at full strength.
+- **Status:** drafted → `scripts/project-b/04-state-your-class.md`
+- **Facts confidence:** high (structural); skill count + Classic lineage to verify at recording
+
+## 10. It Does Nothing (Boss pets)
+- **Thesis:** Pets are gaming's purest status economy and the uselessness is the engineering — untradeable + stat-less = the only unfakeable receipt for time; the handicap principle in a drop table.
+- **Status:** drafted → `scripts/project-b/05-it-does-nothing.md`
+- **Facts confidence:** med-high (definitional claims safe; rates and Probita mechanics flagged)
+
+### Rejected / cut from this batch — do not re-pitch without a new angle
+- **The missing party hats** (owner-rejected 2026-07-09: RS3's history wearing an OSRS costume, thin verified facts).
+- **The MIDI soundtrack** (owner-rejected 2026-07-09: nostalgia/vibes lane — the catalogue's weakest-performing lane).
+- **Travel friction / "every teleport makes the game smaller"** (drafting-cut: thesis collides with Project W's `02-in-defense-of-the-boat`).
+
+---
+
 ## SEED IDEAS
 *Unvalidated sparks — theses to pressure-test, not settled takes. Verify all mechanics before drafting.*
 
