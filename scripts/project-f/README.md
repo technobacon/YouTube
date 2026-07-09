@@ -24,6 +24,9 @@ Sources: favoree.io economy-channel rankings, vidIQ channel stats, Fortune/Elm W
 | 3 | `03-a-letter-of-recommendation.md` | Personal | Your credit score doesn't measure whether you're good with money; it measures how profitable your obedience is — a reference letter written by your debts | **Reference letter** — drafted, crossed out, redrafted on camera |
 | 4 | `04-the-black-box.md` | History | LTCM is scarier than a greed story: the math was mostly right, the people were the smartest alive, and it detonated anyway | **Crash investigation** — flight recorder, wreckage analysis, findings |
 | 5 | `05-a-guided-meditation-for-the-recently-rich.md` | Personal / concept | A lottery ticket is honestly priced for what it actually sells — a licensed daydream; the scandal is who has nowhere else to buy hope | **Guided meditation** — the video performs the product, then opens your eyes |
+| L1 | `l1-the-tax-nobody-voted-on.md` | Personal / concept · **launch** | Inflation functions as a tax — no vote, no collector, highest on those with least — and the leak is set on purpose, for good reasons nobody explains | **Plumber's inspection** — the leak, the pipes, the thermostat set to 2% |
+| L2 | `l2-banks-dont-lend-money-that-exists.md` | Concept · **launch** | Banks create money at the moment of lending, by typing — the Bank of England said so in 2014, and the piggy-bank story still runs the world | **Magic trick, explained** — pledge, turn, prestige |
+| L3 | `l3-a-biography-of-the-line.md` | Concept / personal · **launch** | The stock market chart is a survivor's biography — the honest engines of its rise, the lines that died, and the one that slept 34 years | **Biography** — of a line, near-deaths and all |
 
 ## Why these five
 
