@@ -2,7 +2,7 @@
 
 **Thesis:** Tutorial Island succeeds because it teaches RuneScape's verbs and refuses to assign the player a life. You leave knowing how to fish, cook, mine, fight, pray, bank, and cast a spell, then the game abandons you in Lumbridge without a main objective. The confusion is the first lesson in self-direction.
 **Format:** Graduation ceremony. Each instructor signs the certificate; the final speaker discovers there is no course waiting on the mainland.
-**Runtime:** ~11 minutes (~1,600 spoken words)
+**Runtime:** ~12 minutes (~1,800 spoken words)
 **Voice dial:** Warm, wry, and increasingly sincere. The broader MMO comparison stays grounded; the close carries the philosophical register.
 **Facts:** Tutorial Island's instructor sequence and taught actions require a current in-game/wiki verification pass before recording. The argument avoids claims about completion or retention rates.
 
@@ -12,12 +12,12 @@
 
 | Beat | Time | Retention job |
 |------|------|---------------|
-| Graduation day | 0:00–1:10 | Familiar ritual presented as a school with a missing curriculum |
-| The verbs | 1:10–3:00 | Show how little the tutorial explains and how much it actually equips |
-| Lumbridge | 3:00–4:50 | The terrifying first minute after arrival |
-| The modern tutorial | 4:50–7:00 | Broaden into MMO onboarding and objective chains |
-| The turn | 7:00–9:00 | Admit that confusion loses players and wastes time |
-| Commencement | 9:00–10:45 | Freedom requires an unanswered question; the tutorial ends at the correct moment |
+| Graduation day | 0:00–1:20 | Familiar ritual presented as a school with a missing curriculum |
+| The verbs | 1:20–3:30 | Show how little the tutorial explains and how much it actually equips |
+| Lumbridge | 3:30–5:30 | The terrifying first minute after arrival |
+| The modern tutorial | 5:30–7:50 | Broaden into MMO onboarding and objective chains |
+| The turn | 7:50–10:00 | Admit that confusion loses players and wastes time |
+| Commencement | 10:00–12:00 | Freedom requires an unanswered question; the tutorial ends at the correct moment |
 
 **Curiosity gaps:** What is missing from the graduation certificate? Why does the tutorial stop precisely when the player needs direction most? What did later MMOs gain, and lose, by refusing to leave the player alone?
 
@@ -141,7 +141,7 @@ This works. Millions of players reach the real game because the road was impossi
 
 The road also answers a question the player never got to ask.
 
-[VISUAL: clean objective chain from a modern MMO; arrows and highlighted targets slowly fill the frame until the landscape is barely visible]
+[VISUAL: clean objective chain from a modern MMO; arrows and highlighted targets slowly fill the frame until the world is barely visible]
 
 The world becomes a sequence before it becomes a place. Forests are crossed because the objective is behind them. Enemies are killed because the tracker requires them. A town is the interval between two exclamation marks.
 
@@ -267,7 +267,7 @@ Purpose pending.
 
 4. **Modern Games Forgot How to Teach Freedom**
    - *SEO:* broad game-design browse title; weaker RuneScape keyword, strongest crossover potential.
-   - *Thumbnail:* objective arrow covering a landscape beside an empty RuneScape road; text: “WHO CHOSE THIS?”
+   - *Thumbnail:* objective arrow covering an open world beside an empty RuneScape road; text: “WHO CHOSE THIS?”
    - *Hook:* contrast a perfect objective chain with the Lumbridge arrival.
 
 5. **Tutorial Island's Missing Final Lesson**
@@ -281,11 +281,11 @@ Purpose pending.
 
 **Chapters:**
 - 0:00 Graduation Day
-- 1:10 The Verbs
-- 3:00 Lumbridge Has No Plan
-- 4:50 The Modern MMO Tutorial
-- 7:00 The Case Against Confusion
-- 9:00 Purpose Pending
+- 1:20 The Verbs
+- 3:30 Lumbridge Has No Plan
+- 5:30 The Modern MMO Tutorial
+- 7:50 The Case Against Confusion
+- 10:00 Purpose Pending
 
 ---
 
