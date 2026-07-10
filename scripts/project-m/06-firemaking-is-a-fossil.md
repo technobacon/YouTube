@@ -85,7 +85,7 @@ A fire created a temporary kitchen wherever the player could obtain logs.
 
 That chain has coherence.
 
-Woodcutting gathers fuel. Firemaking converts fuel into a temporary station. Fishing or combat supplies food. Cooking converts the food. The player carries survival forward through the landscape.
+Woodcutting gathers fuel. Firemaking converts fuel into a temporary station. Fishing or combat supplies food. Cooking converts the food. The player carries survival forward through the world.
 
 The skill icon belongs to that grammar.
 
