@@ -2,7 +2,7 @@
 
 **Thesis:** RuneScape sold membership by turning the paywall into geography. Free players could walk to the border of their country, look through a gate, and see the road continue into a larger world. The subscription felt like migration rather than a store purchase—and that physical honesty was both beautiful design and extremely effective pressure.
 **Format:** Border-control interview. The viewer applies for passage while a patient officer inventories everything the free world allowed them to become.
-**Runtime:** ~13 minutes (~1,950 spoken words)
+**Runtime:** ~10 minutes (~1,500 spoken words)
 **Voice dial:** Wry and concrete through the border mechanics; darker during the monetization turn; tender toward the free world as a complete homeland.
 **Facts:** Exact historical membership dates, individual gate text, and current free/member boundaries require verification before recording. No pricing claim appears in the prose.
 
@@ -12,12 +12,12 @@
 
 | Beat | Time | Retention job |
 |------|------|---------------|
-| Passport, please | 0:00–1:30 | Physical border as a strange monetization image |
-| The visible road | 1:30–4:00 | Explain how geography sells scale |
-| A complete small country | 4:00–6:30 | Defend free-to-play as a world rather than a trial |
-| The invisible cash shop | 6:30–8:40 | Compare geographic gating with menu monetization |
-| The turn | 8:40–11:00 | Face pressure on children and engineered envy |
-| The stamp | 11:00–13:00 | Membership as remembered migration; border creates two homelands |
+| Passport, please | 0:00–1:10 | Physical border as a strange monetization image |
+| The visible road | 1:10–3:00 | Explain how geography sells scale |
+| A complete small country | 3:00–5:00 | Defend free-to-play as a world rather than a trial |
+| The invisible cash shop | 5:00–6:40 | Compare geographic gating with menu monetization |
+| The turn | 6:40–8:20 | Face pressure on children and engineered envy |
+| The stamp | 8:20–10:00 | Membership as remembered migration; border creates two homelands |
 
 **Curiosity gaps:** Why does a blocked road feel larger than a locked menu? Was free-to-play a demo or a country? What exactly did the border sell: content, adulthood, or the right to keep walking?
 
@@ -291,11 +291,11 @@ This time, so do you.
 
 **Chapters:**
 - 0:00 Passport, Please
-- 1:30 The Visible Road
-- 4:00 A Complete Small Country
-- 6:30 The Invisible Cash Shop
-- 8:40 The Pressure at the Border
-- 11:00 The Stamp
+- 1:10 The Visible Road
+- 3:00 A Complete Small Country
+- 5:00 The Invisible Cash Shop
+- 6:40 The Pressure at the Border
+- 8:20 The Stamp
 
 ---
 
