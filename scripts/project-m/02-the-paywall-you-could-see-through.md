@@ -2,7 +2,7 @@
 
 **Thesis:** RuneScape sold membership by turning the paywall into geography. Free players could walk to the border of their country, look through a gate, and see the road continue into a larger world. The subscription felt like migration rather than a store purchase—and that physical honesty was both beautiful design and extremely effective pressure.
 **Format:** Border-control interview. The viewer applies for passage while a patient officer inventories everything the free world allowed them to become.
-**Runtime:** ~10 minutes (~1,500 spoken words)
+**Runtime:** ~13 minutes (~1,950 spoken words)
 **Voice dial:** Wry and concrete through the border mechanics; darker during the monetization turn; tender toward the free world as a complete homeland.
 **Facts:** Exact historical membership dates, individual gate text, and current free/member boundaries require verification before recording. No pricing claim appears in the prose.
 
@@ -12,12 +12,12 @@
 
 | Beat | Time | Retention job |
 |------|------|---------------|
-| Passport, please | 0:00–1:10 | Physical border as a strange monetization image |
-| The visible road | 1:10–3:00 | Explain how geography sells scale |
-| A complete small country | 3:00–5:00 | Defend free-to-play as a world rather than a trial |
-| The invisible cash shop | 5:00–6:40 | Compare geographic gating with menu monetization |
-| The turn | 6:40–8:20 | Face pressure on children and engineered envy |
-| The stamp | 8:20–10:00 | Membership as remembered migration; border creates two homelands |
+| Passport, please | 0:00–1:30 | Physical border as a strange monetization image |
+| The visible road | 1:30–4:00 | Explain how geography sells scale |
+| A complete small country | 4:00–6:30 | Defend free-to-play as a world rather than a trial |
+| The invisible cash shop | 6:30–8:40 | Compare geographic gating with menu monetization |
+| The turn | 8:40–11:00 | Face pressure on children and engineered envy |
+| The stamp | 11:00–13:00 | Membership as remembered migration; border creates two homelands |
 
 **Curiosity gaps:** Why does a blocked road feel larger than a locked menu? Was free-to-play a demo or a country? What exactly did the border sell: content, adulthood, or the right to keep walking?
 
@@ -41,7 +41,7 @@ The officer studies you through the bars.
 
 Behind him, the path curves into trees. Somewhere farther on are towns you have only seen on the world map, skills represented by icons you cannot train, quests whose requirements begin with a sentence about membership, and creatures with drops your bank can technically hold but your account cannot use.
 
-The landscape continues with breathtaking indifference.
+The country continues with breathtaking indifference.
 
 Your character does not.
 
@@ -65,7 +65,7 @@ A button is grey. A chapter is locked. A shop panel shows the thing you would be
 
 RuneScape placed the refusal inside the fiction.
 
-A stairway could reject you. A ship could refuse the voyage. A gate separated the free kingdom from the paid one, and the decisive detail was that the gate rarely hid the existence of what came next. The map named places beyond your citizenship. Other players wore equipment from there. Members passed through the crossing while you stood on the free side dressed as somebody who had recently discovered mithril.
+A stairway could reject you. A ship could refuse the voyage. A gate separated the free kingdom from the paid one, and the detail that mattered was that the gate rarely hid the existence of what came next. The map named places beyond your citizenship. Other players wore equipment from there. Members passed through the crossing while you stood on the free side dressed as somebody who had recently discovered mithril.
 
 [VISUAL: free player at the gate while members pass through in both directions; hold on the contrast rather than cutting between gear pieces]
 
@@ -91,7 +91,7 @@ A border can create longing.
 
 This matters, because the usual story calls free-to-play a demo.
 
-Demos end. Free RuneScape continued indefinitely, and many people remained there.
+Demos end. Free RuneScape did not end. You could remain there indefinitely, and many people did.
 
 You could complete its quests, build a respectable bank, argue at the Grand Exchange, fish on Karamja, die somewhere humiliating, start a clan, become frighteningly knowledgeable about a narrow economy, and develop opinions about which yew tree belonged to whom.
 
@@ -109,9 +109,9 @@ RuneScape's free world said, “This is real. There is simply more.”
 
 The distinction protects dignity. The free player has a home rather than a waiting room. When membership arrives, they cross from one coherent life into another. They bring knowledge, habits, friends, and a bank full of objects that seemed important within the old borders.
 
-The person crosses intact.
+The subscription does not create the person.
 
-Only the country changes size.
+It changes the size of their country.
 
 ---
 
@@ -268,7 +268,7 @@ This time, so do you.
 2. **The Paywall You Could See Through**
    - *SEO:* broader curiosity title, strongest literary package; RuneScape prominent in thumbnail.
    - *Thumbnail:* road continuing behind iron bars; text: “MEMBERS ONLY.”
-   - *Hook:* “The landscape continued. Your character did not.”
+   - *Hook:* “The road continued. Your character did not.”
 
 3. **Why RuneScape Membership Felt So Huge**
    - *SEO:* high-intent RuneScape membership phrase and nostalgia pull.
@@ -291,11 +291,11 @@ This time, so do you.
 
 **Chapters:**
 - 0:00 Passport, Please
-- 1:10 The Visible Road
-- 3:00 A Complete Small Country
-- 5:00 The Invisible Cash Shop
-- 6:40 The Pressure at the Border
-- 8:20 The Stamp
+- 1:30 The Visible Road
+- 4:00 A Complete Small Country
+- 6:30 The Invisible Cash Shop
+- 8:40 The Pressure at the Border
+- 11:00 The Stamp
 
 ---
 
