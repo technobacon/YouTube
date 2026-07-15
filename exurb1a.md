@@ -97,6 +97,24 @@ His obsessions — reach for these wells:
 
 - **Narration-driven.** His voice over visuals is the whole thing. The writing carries it; visuals serve the words.
 - **Visuals:** a loose, lo-fi, collage-y mix — stock footage, space/nature imagery, simple animation, sketches, occasional webcam, text on screen, found footage. Deliberately *not* the slick, uniform, high-budget vector animation of Kurzgesagt. The roughness is part of the intimacy; it feels handmade and personal, like a friend showing you something.
+### Project-specific production palette
+
+For this channel, translate the lo-fi collage aesthetic through assets the user can obtain or make alone. Every script begins with a short **General visual style** paragraph, then every visual cue proposes a creative but easy shot.
+
+Use:
+
+- reusable/licensed stock photos discovered through Google Images or stock libraries;
+- simple ChatGPT-generated stills, objects, cutouts, textures, backgrounds, or symbolic scenes;
+- OSRS screenshots, icons, interface crops, maps, chat boxes, and other collectable game assets;
+- easy in-game footage the user can record without elaborate staging;
+- stock video;
+- text on screen;
+- slow pans, zooms, fades, masks, arrows, circles, split screens, simple graphs, and other basic motion graphics.
+
+Make the idea memorable through an unexpected image, a clean metaphor, or two simple assets placed together. Keep the build obvious and light. Avoid bespoke 3D animation, complex AI scenes, precise generated UI, advanced compositing, actor-heavy shoots, and cinematics that are difficult to reproduce. When an ambitious visual appears in the prose, convert it into a still, collage, text card, easy gameplay capture, or basic animation.
+
+A visual cue should tell the user what to source or capture, how to frame it, and the one simple movement that keeps it alive on screen. "Show relevant gameplay" is too vague. "In-game: fixed camera on the empty boss doorway, player runs into frame and stops; slow digital push" is usable.
+
 - **Music** is a major emotional lever — melancholic piano, ambient, swelling strings under the sincere moments. He even builds whole videos *as* songs ("A Song About Rockets": a cheery piano tune about the Blitz, JFK's assassination, and nuclear war — the tonal-clash principle applied to form itself).
 - **Pacing:** unhurried. He lets silences and slow passages breathe. Not everything is maximally "retention-optimised" — the meditative pace *is* the experience.
 - **The look and sound should feel intimate and slightly melancholy**, like late-night thoughts, not like a lecture or a corporate explainer.
