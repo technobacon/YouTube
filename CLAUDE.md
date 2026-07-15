@@ -128,6 +128,33 @@ The `[VISUAL: ...]` cue is a camera note, not a voice note (see §4). It tells t
 - **Stills get motion; footage just plays.** The one trap in a long hold: a dead-static image past ~6–8 seconds reads as a frozen video. Assume every still carries a slow push-in or drift (a Ken Burns move), so it can be held indefinitely; moving footage needs nothing. Write cues with this in mind — a still that has to hold a long reflective beat is fine, because the motion is assumed.
 - **Reserve energy for where it's load-bearing** — same philosophy as the delivery notation's "mark the exception, not the rule." Tighter cutting, quick sequences, and any flourish belong to the two places that earn them: the first 15–30 seconds (the retention-critical hook) and the rare emphasis spike where the writing itself accelerates (often a `[quick]` span or a staccato line-break run). Everywhere else, default to the long, quiet hold. A whole video at one energy is dull; a video calm *except* where it deliberately isn't is the rhythm.
 
+### 4.5a PRODUCTION PALETTE — a hard feasibility constraint
+
+Every script must begin its metadata with a short **General visual style** paragraph: two to four sentences defining the overall look, colour/mood, recurring visual motif, likely asset mix, and simple motion language. Establish the general style first; then make every individual cue a creative, concrete shot that fits it.
+
+Build every `[VISUAL: ...]` cue from one or more items in this production palette:
+
+- **Stock stills:** reusable/licensed photographs found through Google Images or a stock library. The user handles the final licence/source check before publication.
+- **Simple ChatGPT-generated assets:** a single object, cutout, texture, background, symbolic still, or uncomplicated scene that image generation can produce reliably. Avoid precise UI, crowded scenes, character continuity, small embedded text, or complex diagrams.
+- **Collectable game assets:** OSRS screenshots, inventory/item/NPC icons, interface crops, wiki-style assets, maps, chat boxes, and other game elements the user can capture or source.
+- **Easy in-game footage:** ordinary shots the user can record alone — walking, banking, skilling, entering a boss room, dying, opening an interface, rotating the camera, standing in a location, or repeating a simple action.
+- **Stock video:** short, easy-to-source footage of people, places, objects, nature, work, screens, crowds, or abstract texture.
+- **Text on screen:** one number, sentence, label, quote, counter, list, or contrast presented cleanly.
+- **Very basic motion graphics:** slow pans and zooms, position/scale/opacity keyframes, simple masks, arrows, circles, lines, highlights, split screens, basic graphs, and uncomplicated parallax.
+
+**Cue-writing standard:** never stop at `[VISUAL: relevant gameplay]` or an abstract concept. Give the user a shot they can make: name the asset source/type, the subject, the framing or composition, and the one simple motion or transition. Preferred cue labels are `[VISUAL: IN-GAME — ...]`, `[VISUAL: STOCK STILL — ...]`, `[VISUAL: STOCK VIDEO — ...]`, `[VISUAL: GENERATED ASSET — ...]`, `[VISUAL: GAME ASSET / COLLAGE — ...]`, and `[VISUAL: TEXT / BASIC MOTION — ...]`. Combine labels when a simple composite uses two sources.
+
+**Creative, then feasible:** cues should be imaginative through metaphor, juxtaposition, framing, repetition, and timing. Keep execution simple: usually one strong image, or two easy assets combined with one motion. A surprising stock photo plus an OSRS icon can beat a bespoke animation.
+
+**Do not prescribe** bespoke 3D work, advanced character animation, complex multi-scene AI imagery, difficult actor shoots, elaborate rotoscoping, heavy compositing, precision data animation, or cinematics that require rare in-game staging unless the user explicitly asks for them. Translate an ambitious idea into a still, a simple collage, an easy in-game shot, text, or basic motion graphic.
+
+Example:
+
+- Too complex: `[VISUAL: animate the entire Grand Exchange collapsing into a black hole while hundreds of items orbit it]`
+- Feasible: `[VISUAL: GENERATED ASSET + GAME ASSET / BASIC MOTION — a simple black drain on white; place the GE icon above it and fade four recognisable item icons downward one at a time; slow push throughout]`
+
+The cue must be useful at edit time. The user should be able to read it and immediately know what to capture, find, generate, or assemble.
+
 The point of writing to these rules is leverage: the slow edit only works because the script and voice never stop being interesting, so this pushes the work toward the channel's strength (the writing) and away from its most expensive hours (the cut). A cue written this way is one the editor can realise in minutes.
 
 ---
@@ -138,9 +165,9 @@ When asked for a new script, default to this sequence (collapse steps if the use
 
 1. **Clarify the angle** if the topic is broad — propose 2–3 possible theses and let the user pick, rather than guessing.
 2. **Research / verify mechanics.** OSRS specifics (formulas, drop rates, update dates, item stats) must be accurate. If you're not certain about a number or a patch detail, say so explicitly and flag it for the user to confirm — never invent a stat. Use search/tools when available to verify current game state, since OSRS updates frequently.
-3. **Outline** — thesis + section beats + the intended hook and the intended counterargument.
-4. **Draft** the full script in spoken-narration prose with `[VISUAL: ...]` cues (paced per §4.5 — one per beat, slow by default), and layer in the delivery notation from Section 4 where a pause, a pace shift, or an emphasis genuinely earns it.
-5. **Self-audit** against Section 2 and tighten.
+3. **Outline** — thesis + section beats + the intended hook and counterargument, followed by the script's **General visual style** and feasible asset approach.
+4. **Draft** the full script in spoken-narration prose with production-ready `[VISUAL: ...]` cues (paced per §4.5 — one per beat, slow by default; sourced and scoped per §4.5a), and layer in the delivery notation from Section 4 where a pause, a pace shift, or an emphasis genuinely earns it.
+5. **Self-audit** against Section 2 and tighten. Run a separate visual-feasibility pass: every cue must be creative, specific, and achievable with the §4.5a production palette.
 
 Output scripts as clean prose (not tables) unless the user asks for a two-column visual/VO format. Give an approximate spoken runtime if useful (~150 words ≈ 1 minute).
 
