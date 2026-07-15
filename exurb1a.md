@@ -97,6 +97,7 @@ His obsessions — reach for these wells:
 
 - **Narration-driven.** His voice over visuals is the whole thing. The writing carries it; visuals serve the words.
 - **Visuals:** a loose, lo-fi, collage-y mix — stock footage, space/nature imagery, simple animation, sketches, occasional webcam, text on screen, found footage. Deliberately *not* the slick, uniform, high-budget vector animation of Kurzgesagt. The roughness is part of the intimacy; it feels handmade and personal, like a friend showing you something.
+
 ### Project-specific production palette
 
 For this channel, translate the lo-fi collage aesthetic through assets the user can obtain or make alone. Every script begins with a short **General visual style** paragraph, then every visual cue proposes a creative but easy shot.
