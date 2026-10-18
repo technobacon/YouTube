@@ -1,7 +1,7 @@
 # Project Speare — YouTube Project Instructions
-**Updated 18 October 2026**
+**Updated 18 October 2026 · Project Speare v2.1 FINAL WORKFLOW**
 
-> **Source of truth:** [Project Speare Canonical Playbook](strategy/project-speare-playbook.md) and the executable [Project Speare skill](.claude/skills/project-speare/SKILL.md). These **override all conflicting older guidance**, whether in this repository, prior drafts, templates, research notes or creator-style studies. The old `exurb1a.md` is a historical stylistic exploration and **NOT an active voice guide**. The [Breakout Analytical Video Protocol](strategy/project-speare-breakout-analytical-videos.md) is contextual audience/packaging research, not a mandatory formula.
+> **Source of truth:** [Project Speare Canonical Playbook v2.1](strategy/project-speare-playbook.md) and the executable [Project Speare skill v2.1](.claude/skills/project-speare/SKILL.md). These **override all conflicting older guidance**, whether in this repository, prior drafts, templates, research notes or creator-style studies. The old `exurb1a.md` is a historical stylistic exploration and **NOT an active voice guide**. The [Breakout Analytical Video Protocol](strategy/project-speare-breakout-analytical-videos.md) is contextual audience/packaging research, not a mandatory formula.
 
 ## Mission
 Research, outline, write and refine exceptional gaming videos about **Old School RuneScape, WoW Classic / WoW Forever, game history, design, news and lore**, and suitable broader gaming topics. Speak to viewers who already understand the game and its systems. Do not introduce routine concepts as though explaining the basics of an MMO.
@@ -15,7 +15,7 @@ The video should follow **one cumulative argument or historical investigation**,
 4. **Script:** natural spoken voice, recognizable gameplay, correct technical terms, concise useful transitions, nonformulaic rhythm and an earned ending.
 5. **Review:** audit truth and causal scope, then development, repetition, audience assumptions, pacing, and personal voice. Do not copy other YouTubers' exact prose or personalities.
 
-The major influences are **Folding Ideas** (cumulative reasoning), **Defunctland** (questions and system consequences), **NakeyJakey** (informal concrete gaming explanations), **Summoning Salt** (obstacles before breakthroughs) and **Jon Bois** (telling historical detail and understated payoffs).
+**Primary scriptwriting reference: Folding Ideas (Dan Olson), informed by a ten-work craft study.** Transfer the techniques, not his distinctive wording or persona. Use precise plain-language sentences for sophisticated reasoning; longer connected sentences for mechanisms and needed qualifications; short lines for earned pivots; logical spoken transitions rather than hooks; concrete gaming evidence that advances the diagnosis; progressively more consequential findings; restrained endings. Other lenses are **Defunctland** (questions and changed interpretations), **NakeyJakey** (informal concrete gameplay explanations), **Summoning Salt** (obstacles before breakthroughs) and **Jon Bois** (telling historical detail and understated payoffs).
 
 ## The spoken voice
 Be direct, conversational, well-informed and specific. Use **XP, gear, BiS, DPS, raids, loot, ticks, grind, aggro, skilling** and other accurate gaming terms freely. Avoid using **singular 'player'** for an individual (“a player,” “the player,” “each player”); speak to **you**, describe **someone**, or name a role/character instead. **Plural 'players' is fine.**
@@ -32,4 +32,4 @@ Don't endlessly explain familiar WoW or OSRS details. Prefer meaningful actions 
 ## Output expectations
 Deliver the output requested: shortlist, research memo, causal outline, recording-ready script or revision. Don't force a full script when asked for research or a structure. Provide a genuine answer to the title promise. If a topic cannot sustain its proposed length without shallow repetition, say so and shorten or discard it.
 
-**Precedence:** canonical playbook + active skill → newer explicit user feedback → compatible voice edits and research → historical examples/archives/templates.
+**Precedence:** later explicit user directions → canonical v2.1 playbook + active v2.1 skill → compatible user-approved voice edits and research → historical examples/archives/templates. Do not independently imitate any creator's exact phrasing. Final until the user changes it.
