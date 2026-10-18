@@ -1,3 +1,5 @@
+> **Priority update — 18 October 2026:** This is a *supporting historical study*, not active writing or structural authority. The [Project Speare v2 Canonical Playbook](project-speare-playbook.md) and [active skill](../.claude/skills/project-speare/SKILL.md) override older advice here where it conflicts. In narration, gaming language is encouraged and singular “player” for an individual is avoided.
+
 # Project Speare — Breakout Analytical Video Protocol
 
 Updated: 16 October 2026
